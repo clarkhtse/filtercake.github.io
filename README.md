@@ -1,5 +1,10 @@
     jekyll serve -w
 
+## Todo:
+
+- blockquote styling
+
+
 ##### Log
 
 
