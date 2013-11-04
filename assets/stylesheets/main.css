@@ -244,14 +244,15 @@ ul.posts span {
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2em;
   font-weight: bold;
+  text-transform: capitalize;
 }
 
-/* line 19, ../sass/main.sass */
+/* line 20, ../sass/main.sass */
 em {
   font-style: italic;
 }
 
-/* line 21, ../sass/main.sass */
+/* line 22, ../sass/main.sass */
 strong {
   font-weight: bold;
 }
