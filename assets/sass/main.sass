@@ -5,19 +5,54 @@
 
 @import compass/reset
 @import partials/jekyll-defaults
+@import font-awesome/font-awesome
 
 
+
+.indented-icon
+  @extend .fa
+  position: relative
+  left: -1.5em
+  &:before
+    margin-right: 0.5em
+    font-weight: normal
+    // text-decoration: none // doean't work
+
+.unindented-icon
+  @extend .fa
+  // position: relative
+  // left: -1.5em
+  &:before
+    margin-right: 0.5em
+    font-weight: normal
+    // text-decoration: none
+
+.title
+  line-height: 1.2em
+  font-weight: bold
+  text-transform: capitalize
 
 
 .post--title
   font-size: 2.62em
+  @extend .title
+  @extend .indented-icon
+  @extend .fa-bullseye
+  
+.post--title--link
 
-h1, h2, h3, h4, h5, h6
-  line-height: 1.2em
-  font-weight: bold
-  text-transform: capitalize
+.vcard--icon--github, .vcard--icon--twitter
+  @extend .unindented-icon
+.vcard--icon--github
+  @extend .fa-github
+.vcard--icon--twitter
+  @extend .fa-twitter
+
 
 em
   font-style: italic
 strong
   font-weight: bold
+
+.contact
+  font-size: 1.3em
