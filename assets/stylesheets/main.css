@@ -1,0 +1,257 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 17, ../../../../.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/*************************************************************************** */
+/* line 6, ../sass/partials/_jekyll-defaults.sass */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 10, ../sass/partials/_jekyll-defaults.sass */
+html {
+  height: 100%;
+}
+
+/* line 13, ../sass/partials/_jekyll-defaults.sass */
+body {
+  height: 100%;
+  background-color: white;
+  font: 13.34px Helvetica, Arial, sans-serif;
+  font-size: small;
+  text-align: center;
+}
+
+/* line 20, ../sass/partials/_jekyll-defaults.sass */
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  line-height: 1.2em;
+}
+
+/* line 24, ../sass/partials/_jekyll-defaults.sass */
+h1 {
+  margin-bottom: 1em;
+}
+
+/* line 27, ../sass/partials/_jekyll-defaults.sass */
+p {
+  margin: 1em 0;
+}
+
+/* line 30, ../sass/partials/_jekyll-defaults.sass */
+a {
+  color: #0000aa;
+}
+/* line 32, ../sass/partials/_jekyll-defaults.sass */
+a:hover {
+  color: black;
+}
+/* line 34, ../sass/partials/_jekyll-defaults.sass */
+a:visited {
+  color: #aa00aa;
+}
+
+/*************************************************************************** */
+/* line 40, ../sass/partials/_jekyll-defaults.sass */
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+/* line 43, ../sass/partials/_jekyll-defaults.sass */
+ul.posts li {
+  line-height: 1.75em;
+}
+/* line 45, ../sass/partials/_jekyll-defaults.sass */
+ul.posts span {
+  color: #aaaaaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+/*************************************************************************** */
+/* line 53, ../sass/partials/_jekyll-defaults.sass */
+.site {
+  font-size: 115%;
+  text-align: left;
+  width: 42em;
+  margin: 3em auto 2em;
+  line-height: 1.5em;
+}
+/* line 60, ../sass/partials/_jekyll-defaults.sass */
+.site .header a {
+  font-weight: bold;
+  text-decoration: none;
+}
+/* line 63, ../sass/partials/_jekyll-defaults.sass */
+.site .header h1.title {
+  display: inline-block;
+  margin-bottom: 2em;
+}
+/* line 66, ../sass/partials/_jekyll-defaults.sass */
+.site .header h1.title a {
+  color: #aa0000;
+}
+/* line 68, ../sass/partials/_jekyll-defaults.sass */
+.site .header h1.title a:hover {
+  color: black;
+}
+/* line 70, ../sass/partials/_jekyll-defaults.sass */
+.site .header a.extra {
+  color: #aaaaaa;
+  margin-left: 1em;
+}
+/* line 73, ../sass/partials/_jekyll-defaults.sass */
+.site .header a.extra:hover {
+  color: black;
+}
+/* line 75, ../sass/partials/_jekyll-defaults.sass */
+.site .meta {
+  color: #aaaaaa;
+}
+/* line 77, ../sass/partials/_jekyll-defaults.sass */
+.site .footer {
+  font-size: 80%;
+  color: #666666;
+  border-top: 4px solid #eeeeee;
+  margin-top: 2em;
+  overflow: hidden;
+}
+/* line 83, ../sass/partials/_jekyll-defaults.sass */
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+/* line 86, ../sass/partials/_jekyll-defaults.sass */
+.site .footer .contact a {
+  color: #8085c1;
+}
+/* line 88, ../sass/partials/_jekyll-defaults.sass */
+.site .footer .rss {
+  margin-top: 1.1em;
+  margin-right: -0.2em;
+  float: right;
+}
+/* line 92, ../sass/partials/_jekyll-defaults.sass */
+.site .footer .rss img {
+  border: 0;
+}
+
+/*************************************************************************** */
+/* line 102, ../sass/partials/_jekyll-defaults.sass */
+.post pre {
+  border: 1px solid #dddddd;
+  background-color: #eeeeff;
+  padding: 0 0.4em;
+}
+/* line 106, ../sass/partials/_jekyll-defaults.sass */
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+/* line 108, ../sass/partials/_jekyll-defaults.sass */
+.post code {
+  border: 1px solid #dddddd;
+  background-color: #eeeeff;
+  padding: 0 0.2em;
+}
+/* line 113, ../sass/partials/_jekyll-defaults.sass */
+.post pre code {
+  border: none;
+}
+/* line 115, ../sass/partials/_jekyll-defaults.sass */
+.post pre.terminal {
+  border: 1px solid black;
+  background-color: #333333;
+  color: white;
+}
+/* line 119, ../sass/partials/_jekyll-defaults.sass */
+.post pre.terminal code {
+  background-color: #333333;
+}
+
+/* terminal */
+/* line 12, ../sass/main.sass */
+.post--title {
+  font-size: 2.62em;
+}
+
+/* line 15, ../sass/main.sass */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2em;
+  font-weight: bold;
+}
+
+/* line 19, ../sass/main.sass */
+em {
+  font-style: italic;
+}
+
+/* line 21, ../sass/main.sass */
+strong {
+  font-weight: bold;
+}
