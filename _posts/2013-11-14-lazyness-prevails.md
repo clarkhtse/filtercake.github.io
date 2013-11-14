@@ -12,8 +12,6 @@ summary:
 link:
 ---
 
-sdf
-
 ![http://www.coffee-channel.com/2012/06/chemex-first-look.html]({{site.baseurl}}/images/Chemex-by-coffee-channel.com.jpg)
 
 I love my Chemex.
