@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 permalink: :title
 baseurl:
+url: http://filtercake.com
