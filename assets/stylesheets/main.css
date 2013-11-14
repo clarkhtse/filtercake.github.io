@@ -2450,3 +2450,8 @@ strong {
 .contact {
   font-size: 1.3em;
 }
+
+/* line 61, ../sass/main.sass */
+.post img {
+  width: 100%;
+}
