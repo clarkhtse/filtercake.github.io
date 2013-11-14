@@ -1,4 +1,5 @@
 name: a designer in mono space
 markdown: redcarpet
 pygments: true
+permalink: :title
 baseurl:
