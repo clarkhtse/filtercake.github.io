@@ -1,11 +1,12 @@
-    jekyll serve -w
-
 ## Todo:
 
 - blockquote styling
+- list styling
+- codeblock styling
+- img alt text as caption
+- post Headline indent
+- style headlines
 
+    $ jekyll serve -w --baseurl ''
 
-##### Log
-
-- [A Blog Post to Help You Write Blog Posts](http://blog.hubspot.com/marketing/how-to-write-blog-posts-free-blogging-templates-ht)
-- [Jonathan T. Neal | Understand the Favicon](http://www.jonathantneal.com/blog/understand-the-favicon/)
+    ![]({{site.baseurl}}/images/XXXXXXXXX)
