@@ -20,11 +20,11 @@ Most people consider drip coffee much less cool than steam coffee. Most of them 
 
 On the other hand, drip coffee has been wronged so much by the average home coffee machine, even more by 20 litre catering buckets and don't get me started on the typical office coffee. Coffee from most drip machines varies between "barely drinkable" and "battery acid" (preferably drunk out of *thin plastic cups* – the definition of anti coffee). The reason for this is however not the brew technique. As I learned from [Marco Arment](http://5by5.tv/buildanalyze): keeping coffee heated after brewing makes it sour and bitter. But I digress. If you like a *good* drip coffee, the Chemex is wonderful, and neither does it need high voltage nor water or waste water connections.
 
-Of course there is a catch with this [ennobled-by-the-Museum-of-Modern-Art design masterpiece](https://www.momastore.org/webapp/wcs/stores/servlet/ProductDisplay_Chemex-Handblown-Coffee-Maker_10451_10001_61045_-1_26669_26671): if you leave a rest on the bottom, it stains and the felt atmosphere in the thing changes, and not to the better (yes, we just entered the eight circle of mysticism). So I like to keep that thing clean. Put the rest of the coffee in the sink, rinse with a little water, rinse again, put upside down so no water rest on the bottom goes moldy over the day. You know. Like those pro-pot-smoking freaks did with their glass bongs back then.
+Of course there is a catch with this [ennobled-by-the-Museum-of-Modern-Art design masterpiece](https://www.momastore.org/webapp/wcs/stores/servlet/ProductDisplay_Chemex-Handblown-Coffee-Maker_10451_10001_61045_-1_26669_26671): if you leave a rest on the bottom, it stains and the felt atmosphere in the thing changes, and not to the better (yes, we just entered the eight circle of mysticism). So I like to keep that thing clean. Put the rest of the coffee in the sink, rinse with a little water, rinse again, put upside down so no water rest on the bottom goes moldy over the day.
 
-I should note that we have twins and a small kitchen, so we need our kitchen to be action-ready all the time. We also do not smoke bong any more.
+I should note that we have twins and a small kitchen, so we need our kitchen to be action-ready all the time.
 
-But this is where I recently caught myself doing more than I need to do. Here is before:
+And this is where I recently caught myself doing more than I need to do. Here is before:
 
 - put coffee in cups
 - put Chemex aside
