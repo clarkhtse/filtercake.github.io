@@ -4,15 +4,14 @@ title: "Lazyness prevails"
 published: true
 tags:
 comments: false
-poster: "{{site.baseurl}}/images/Chemex-by-coffee-channel.com.jpg"
+poster: lazyness-prevails.jpg
+postercredit: http://www.coffee-channel.com/2012/06/chemex-first-look.html
 image:
 caption:
 quote:
 summary:
 link:
 ---
-
-![http://www.coffee-channel.com/2012/06/chemex-first-look.html]({{site.baseurl}}/images/Chemex-by-coffee-channel.com.jpg)
 
 I love my Chemex.
 

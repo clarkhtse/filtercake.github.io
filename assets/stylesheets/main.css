@@ -2436,22 +2436,27 @@ ul.posts span {
   font-size: 2.62em;
 }
 
-/* line 52, ../sass/main.sass */
+/* line 51, ../sass/main.sass */
+.post--poster--image:after {
+  content: "ffd";
+}
+
+/* line 56, ../sass/main.sass */
 em {
   font-style: italic;
 }
 
-/* line 54, ../sass/main.sass */
+/* line 58, ../sass/main.sass */
 strong {
   font-weight: bold;
 }
 
-/* line 57, ../sass/main.sass */
+/* line 61, ../sass/main.sass */
 .contact {
   font-size: 1.3em;
 }
 
-/* line 61, ../sass/main.sass */
+/* line 65, ../sass/main.sass */
 .post img {
   width: 100%;
 }
