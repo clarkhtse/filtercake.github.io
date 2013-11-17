@@ -10,19 +10,21 @@
 
 
 .indented-icon
-  @extend .fa
-  position: relative
-  left: -1.5em
+  // position: relative
+  // left: -1em
   &:before
-    margin-right: 0.5em
+    @extend .fa
+    position: relative
+    left: -1.5em
+    // margin-right: 0.5em
     font-weight: normal
     // text-decoration: none // doean't work
 
 .unindented-icon
-  @extend .fa
   // position: relative
   // left: -1.5em
   &:before
+    @extend .fa
     margin-right: 0.5em
     font-weight: normal
     // text-decoration: none
@@ -64,3 +66,9 @@ strong
 .post
   img
     width: 100%
+
+h1, h2
+  font-family: source_code_pro
+
+body 
+  font: 14px source_sans_pro

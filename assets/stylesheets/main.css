@@ -271,7 +271,7 @@ ul.posts span {
 }
 
 /* line 4, ../sass/font-awesome/_core.scss */
-.fa, .indented-icon, .post--title, .unindented-icon, .vcard--icon--github, .vcard--icon--twitter {
+.fa, .indented-icon:before, .post--title:before, .unindented-icon:before, .vcard--icon--github:before, .vcard--icon--twitter:before {
   display: inline-block;
   font-family: FontAwesome;
   font-style: normal;
@@ -357,11 +357,11 @@ ul.posts span {
 }
 
 /* line 14, ../sass/font-awesome/_bordered-pulled.scss */
-.fa.pull-left, .pull-left.indented-icon, .pull-left.post--title, .pull-left.unindented-icon, .pull-left.vcard--icon--github, .pull-left.vcard--icon--twitter {
+.fa.pull-left, .pull-left.indented-icon:before, .pull-left.post--title:before, .pull-left.unindented-icon:before, .pull-left.vcard--icon--github:before, .pull-left.vcard--icon--twitter:before {
   margin-right: .3em;
 }
 /* line 15, ../sass/font-awesome/_bordered-pulled.scss */
-.fa.pull-right, .pull-right.indented-icon, .pull-right.post--title, .pull-right.unindented-icon, .pull-right.vcard--icon--github, .pull-right.vcard--icon--twitter {
+.fa.pull-right, .pull-right.indented-icon:before, .pull-right.post--title:before, .pull-right.unindented-icon:before, .pull-right.vcard--icon--github:before, .pull-right.vcard--icon--twitter:before {
   margin-left: .3em;
 }
 
@@ -2407,56 +2407,62 @@ ul.posts span {
   content: "\f195";
 }
 
-/* line 12, ../sass/main.sass */
-.indented-icon, .post--title {
+/* line 15, ../sass/main.sass */
+.indented-icon:before, .post--title:before {
   position: relative;
   left: -1.5em;
-}
-/* line 16, ../sass/main.sass */
-.indented-icon:before, .post--title:before {
-  margin-right: 0.5em;
   font-weight: normal;
 }
 
-/* line 25, ../sass/main.sass */
+/* line 26, ../sass/main.sass */
 .unindented-icon:before, .vcard--icon--github:before, .vcard--icon--twitter:before {
   margin-right: 0.5em;
   font-weight: normal;
 }
 
-/* line 30, ../sass/main.sass */
+/* line 32, ../sass/main.sass */
 .title, .post--title {
   line-height: 1.2em;
   font-weight: bold;
   text-transform: capitalize;
 }
 
-/* line 36, ../sass/main.sass */
+/* line 38, ../sass/main.sass */
 .post--title {
   font-size: 2.62em;
 }
 
-/* line 51, ../sass/main.sass */
+/* line 53, ../sass/main.sass */
 .post--poster--image:after {
   content: "ffd";
 }
 
-/* line 56, ../sass/main.sass */
+/* line 58, ../sass/main.sass */
 em {
   font-style: italic;
 }
 
-/* line 58, ../sass/main.sass */
+/* line 60, ../sass/main.sass */
 strong {
   font-weight: bold;
 }
 
-/* line 61, ../sass/main.sass */
+/* line 63, ../sass/main.sass */
 .contact {
   font-size: 1.3em;
 }
 
-/* line 65, ../sass/main.sass */
+/* line 67, ../sass/main.sass */
 .post img {
   width: 100%;
+}
+
+/* line 70, ../sass/main.sass */
+h1, h2 {
+  font-family: source_code_pro;
+}
+
+/* line 73, ../sass/main.sass */
+body {
+  font: 14px source_sans_pro;
 }
