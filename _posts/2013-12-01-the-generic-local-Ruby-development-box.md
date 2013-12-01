@@ -24,11 +24,9 @@ Here is the workflow:
 1. User downloads thing and unzips
 1. User clicks on thing
 1. User enters GitHub username
-1. Thing starts downloading some generic Linux VM (takes some time...)
-1. Thing provisions the Linux Box
 1. Thing clones/pulls/synchs repo username.github.io
 1. Thing start local Jekyll server with exact same config as it would run on GitHub
-1. Then server is ready and Jekyll has made the initial run of rendering, thing opens web browser at localhost:used_port
+1. When server is ready and Jekyll has made the initial run of rendering, thing opens web browser at localhost:used_port
 1. Thing is able to synch the repo to GitHub without the user having to deal with an ssh key.
 
 Steps 1-6 are only necessary on first try of course. The last step is of course the tricky part, because it needs *some* kind of interface and the user should not have to deal with SSH - or at least they should be able just copy-paste something without having to understand what it means.
