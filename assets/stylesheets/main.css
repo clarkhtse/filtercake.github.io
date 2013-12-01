@@ -2432,37 +2432,46 @@ ul.posts span {
   font-size: 2.62em;
 }
 
-/* line 53, ../sass/main.sass */
+/* line 48, ../sass/main.sass */
+.post ul li {
+  list-style: square outside;
+}
+/* line 51, ../sass/main.sass */
+.post ol li {
+  list-style: decimal outside;
+}
+
+/* line 62, ../sass/main.sass */
 .post--poster--image:after {
   content: "ffd";
 }
 
-/* line 58, ../sass/main.sass */
+/* line 67, ../sass/main.sass */
 em {
   font-style: italic;
 }
 
-/* line 60, ../sass/main.sass */
+/* line 69, ../sass/main.sass */
 strong {
   font-weight: bold;
 }
 
-/* line 63, ../sass/main.sass */
+/* line 72, ../sass/main.sass */
 .contact {
   font-size: 1.3em;
 }
 
-/* line 67, ../sass/main.sass */
+/* line 76, ../sass/main.sass */
 .post img {
   width: 100%;
 }
 
-/* line 70, ../sass/main.sass */
+/* line 79, ../sass/main.sass */
 h1, h2 {
   font-family: source_code_pro;
 }
 
-/* line 73, ../sass/main.sass */
+/* line 82, ../sass/main.sass */
 body {
   font: 14px source_sans_pro;
 }
