@@ -14,5 +14,6 @@ Robin for the Borhmaschine!
 ---
 
     $ jekyll serve -w --baseurl ''
+    $ open http://localhost:4000
 
     ![]({{site.baseurl}}/images/XXXXXXXXX)
