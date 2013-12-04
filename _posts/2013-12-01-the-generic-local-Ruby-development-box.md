@@ -15,6 +15,8 @@ summary:
 
 So we did [GitHub from Scratch](http://opentechschool.github.io/github-from-scratch/) [yesterday](http://www.meetup.com/opentechschool-hamburg/events/146838202/) and the feedback was great. The day run smoothly, except for one thing: GitHub Pages rendering was kind of slooooooow. Although people entered correct code, it sometimes took several minutes for their page to render.
 
+UPDATE: [Descriptive error messages for failed GitHub Pages builds](https://github.com/blog/1706-descriptive-error-messages-for-failed-github-pages-builds)
+
 Which made us think on how people could switch to local development earlier without having to learn Git (and be it only with a GUI client) AND needing to run Jekyll in a working Ruby dev enviroment.
 
 So I wonder how this could be achieved with chaining available bricks.
