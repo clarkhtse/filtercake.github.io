@@ -1,2 +1,0 @@
-#!/bin/bash
-jekyll serve -w --baseurl '' & open http://localhost:4000

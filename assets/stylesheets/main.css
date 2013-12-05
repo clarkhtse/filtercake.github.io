@@ -2407,40 +2407,40 @@ ul.posts span {
   content: "\f195";
 }
 
-/* line 15, ../sass/main.sass */
+/* line 13, ../sass/main.sass */
 .indented-icon:before, .post--title:before {
   position: relative;
   left: -1.5em;
   font-weight: normal;
 }
 
-/* line 26, ../sass/main.sass */
+/* line 24, ../sass/main.sass */
 .unindented-icon:before, .vcard--icon--github:before, .vcard--icon--twitter:before, .vcard--icon--flickr:before {
   margin-right: 0.5em;
   font-weight: normal;
 }
 
-/* line 32, ../sass/main.sass */
+/* line 31, ../sass/main.sass */
 .title, .post--title {
   line-height: 1.2em;
   font-weight: bold;
   text-transform: capitalize;
 }
 
-/* line 38, ../sass/main.sass */
+/* line 37, ../sass/main.sass */
 .post--title {
   font-size: 2.62em;
 }
 
-/* line 48, ../sass/main.sass */
+/* line 47, ../sass/main.sass */
 .post ul li {
   list-style: square outside;
 }
-/* line 51, ../sass/main.sass */
+/* line 50, ../sass/main.sass */
 .post ol li {
   list-style: decimal outside;
 }
-/* line 54, ../sass/main.sass */
+/* line 53, ../sass/main.sass */
 .post blockquote {
   font-family: source_code_pro;
   max-width: 35em;
@@ -2449,43 +2449,43 @@ ul.posts span {
   margin-left: 4em;
   font-size: 0.9em;
 }
-/* line 63, ../sass/main.sass */
+/* line 62, ../sass/main.sass */
 .post blockquote em {
   text-decoration: underline;
   font-style: normal;
 }
 
-/* line 78, ../sass/main.sass */
+/* line 77, ../sass/main.sass */
 .post--poster--image:after {
   content: "ffd";
 }
 
-/* line 83, ../sass/main.sass */
+/* line 82, ../sass/main.sass */
 em {
   font-style: italic;
 }
 
-/* line 85, ../sass/main.sass */
+/* line 84, ../sass/main.sass */
 strong {
   font-weight: bold;
 }
 
-/* line 88, ../sass/main.sass */
+/* line 87, ../sass/main.sass */
 .contact {
   font-size: 1.3em;
 }
 
-/* line 92, ../sass/main.sass */
+/* line 91, ../sass/main.sass */
 .post img {
   width: 100%;
 }
 
-/* line 95, ../sass/main.sass */
+/* line 94, ../sass/main.sass */
 h1, h2 {
   font-family: source_code_pro;
 }
 
-/* line 98, ../sass/main.sass */
+/* line 97, ../sass/main.sass */
 body {
   font: 14px source_sans_pro;
 }

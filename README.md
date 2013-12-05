@@ -1,7 +1,10 @@
 ## how to run at home
-
-    $ jekyll serve -w --baseurl ''
+    
+    $ bundle
+    $ foreman start
     $ open http://localhost:4000
+
+Foreman uses the `Procfile` to do `jekyll serve -w --baseurl ''` and `compass watch`.
 
 
 ## image link template
