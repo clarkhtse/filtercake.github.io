@@ -14,3 +14,5 @@ summary:
 ---
 
 I love stories like this: geeks going out, building their own indpendent solutions and actually succeed. As a bonus, this is about hardware (much hard, so wow), backups (about whose you will read here very soon) and improving things from iteration to iteration.
+
+/v Spring
