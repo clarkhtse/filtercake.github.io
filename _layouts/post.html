@@ -9,6 +9,16 @@ layout: default
   {% endif %}
   <p class="meta">{{ page.date | date_to_string }}</p>
 
+  {% if page.thing %}
+    <link rel="stylesheet" href="/things/{{ page.thing }}/{{ page.thing }}.css">
+    {% if page.deps %}
+      {% for dep in page.deps %}
+      <script type="text/javascript" src="/things/{{ page.thing }}/deps/{{ dep }}.js"></script>
+      {% endfor %}
+    {% endif %}
+    <script type="text/javascript" src="/things/{{ page.thing }}/{{ page.thing }}.js"></script>
+  {% endif %}
+
   {{ content }}
 
   {% if page.link %}
