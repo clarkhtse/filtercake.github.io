@@ -1,0 +1,73 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.gh-card, .clear {
+  clear: both;
+  overflow: hidden; }
+
+.gh-card {
+  width: 68mm;
+  /*height: 89mm;*/
+  padding: 0.7em;
+  background: #dedede;
+  border-radius: 1em;
+  border: 1px solid black; }
+
+.gh-card--image {
+  width: 100%;
+  border: 2px solid black;
+  display: block;
+  margin-right: 1em;
+  border-radius: 50%; }
+
+.gh-card--data {
+  position: relative;
+  top: -1.5em;
+  padding: 0;
+  border: none; }
+
+.gh-card--username {
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 0.3em;
+  margin: 0 0 0.3em 0;
+  width: 100%;
+  text-align: left;
+  border: none;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.4);
+  border: none;
+  border-radius: 0.5em; }
+
+.gh-card--location {
+  padding: 0;
+  font-size: 0.62em;
+  border: none; }
+
+.gh-card--number {
+  padding: 0;
+  border: none;
+  display: inline-block;
+  width: 40%;
+  margin-right: 2em; }
+
+.gh-card--public-repos, .gh-card--public-gists {
+  display: inline;
+  padding: 0;
+  font-size: 2.62em;
+  line-height: 1;
+  border: none; }
+
+.gh-card--public-gists {
+  position: relative;
+  right: 0.07em; }
+
+.gh-card--public-repos--caption, .gh-card--public-gists--caption {
+  display: inline;
+  padding: 0;
+  border: none;
+  font-size: 0.62em;
+  position: relative;
+  top: -0.7em; }
