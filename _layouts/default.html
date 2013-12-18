@@ -16,8 +16,18 @@
 
         <link rel="stylesheet" href="/assets/webfontkit-source-sans-pro/font-source-sans-pro.css">
 
+        {% if page.thing %}
+          <link rel="stylesheet" href="/things/{{ page.thing }}/index.css">
+          {% if page.deps %}
+            {% for dep in page.deps %}
+            <script type="text/javascript" src="/things/{{ page.thing }}/deps/{{ dep }}.js"></script>
+            {% endfor %}
+          {% endif %}
+          <script type="text/javascript" src="/things/{{ page.thing }}/index.js"></script>
+        {% endif %}
+
     </head>
-    <body>
+    <body ng-app>
 
         <div class="site">
           <div class="header">
