@@ -1,0 +1,58 @@
+---
+layout: post
+title: "GitHub trading cards"
+link:
+published: true
+tags:
+comments: false
+poster: 
+postercredit:
+image:
+caption:
+quote:
+summary:
+thing: "gh-trading-card"
+deps: "angular.min"
+---
+
+So I started playing around with AngularJS and this the first thingy that came out of it...
+
+{% raw %}
+<div ng-init="msg = 'Hello, <b>World</b>!'">
+<div class="http-req" ng-controller="GetCntrlTWO">
+<p>
+username:<input ng-model="username" /><button ng-click="daCall(username)" type="submit">get info for {{ username }}</button>
+</p>
+<div class="gh-card">
+<img class="gh-card--image" src="{{ requestValue.avatar_url }}" />
+<div class="gh-card--data">
+<div class="gh-card--username">
+{{ requestValue.login }}
+</div>
+<div class="gh-card--location">
+#{{ requestValue.id }} <span ng-if="requestValue.location">| {{ requestValue.location }}</span>
+</div>
+<div class="gh-card--number">
+<div class="gh-card--public-repos">
+{{ requestValue.public_repos }}
+</div>
+<br />
+<div class="gh-card--public-repos--caption">
+repos
+</div>
+</div>
+<div class="gh-card--number">
+<div class="gh-card--public-gists">
+{{ requestValue.public_gists }}
+</div>
+<br />
+<div class="gh-card--public-gists--caption">
+gists
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+{% endraw %}
