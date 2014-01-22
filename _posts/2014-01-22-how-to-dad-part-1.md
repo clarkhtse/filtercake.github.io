@@ -27,13 +27,13 @@ So I am a dad now for 19 months. More importantly, I have finally come to grips 
 - Keep your own space at home, ideally one where you can also lie down and stretch out. It's so important to have your own cave where you can be alone for a couple minutes or hours sometimes.
 - Start meditating, doing yoga, taking walks, reading the bible or *whatever else calms you the fuck down!* Things can get frustrating. You *will* get angry. You *will* cry. You need something to keep your mind calm and relaxed. 
 - Start a routine. Do it. Every. Fucking. Day.
-- Read about sex after kids. You're not the first person in that situation.
+- Read about sex after kids. You're not the first person in that situation. More importantly you're not *alone* in that situation (which is easy to forget).
 - Start stocking the most important supplies. We're not used to doing that anymore because shops are all around us and open 24 hours. But you do not want to run out of milk powder or coffee on Sunday morning, do you? Golden rule: always have one spare additionally to the one in use. Have another one of the most important ones. Saved my ass dozens of times. (Have I mentioned yet the importance of always having coffee and milk powder?)
 - Make a (private!) log/journal about the kids and try to keep ONE fond memory each day. Especially collect their firsts. This is great to go into your routine btw. I can definitely recommend a plain text file in Dropbox over any specialized app. You can always share stuff along from the text file into things like Day One or the like.
 - Treat your photos like an inbox. Go through them every day, keep only the one good shot of every motive. Flag or label them or whatever else you. Try to keep ONE fond photo every day. Also great for the routine of course.
 - Find a way to share photos and video snippets with your parents, aunts, grandparents, siblings, etc. They want new photos every day. Whatsapp, Dropbox, mailing list whatever. 
 - Have patience with your wife and with yourself. You're both new to this and it's a hard thing to tackle. It will complete your life in a way nothing else can – if you give it some time.
 
-The first year is hard and people without kids simply *cannot* help you. If you're going through a rough time and feel like you have nobody to talk to, you're welcome to drop me a line on twitter and we will find some time to shat.
+The first year is hard and people without kids simply *cannot* help you. If you're going through a rough time and feel like you have nobody to talk to, you're welcome to drop me a line on twitter and we will find a time to chat!
 
 All the best to you and your family! You rock!
