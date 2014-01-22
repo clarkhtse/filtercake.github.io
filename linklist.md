@@ -1,0 +1,6 @@
+- [Dazzle camouflage - Wikipedia, the free encyclopedia](http://en.m.wikipedia.org/wiki/Dazzle_camouflage) [2014-01-22]
+- [BrowserSync: Time-saving synchronised browser testing.](http://www.browsersync.io/) [2014-01-22]
+- [human javascript by Henrik Joreteg](http://humanjavascript.com/) [2014-01-21]
+- [First-Person Tetris](http://www.firstpersontetris.com/) [2014-01-21]
+- [JS: The Right Way](http://jstherightway.org/) [2014-01-21]
+- [Chrome Web Store - Tailor](https://chrome.google.com/webstore/detail/tailor/mfakmogheanjhlgjhpijkhdjegllgenf/related?hl=en)
