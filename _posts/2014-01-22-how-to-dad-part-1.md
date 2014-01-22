@@ -36,4 +36,6 @@ So I am a dad now for 19 months. More importantly, I have finally come to grips 
 
 The first year is hard and people without kids simply *cannot* help you. If you're going through a rough time and feel like you have nobody to talk to, you're welcome to drop me a line on twitter and we will find a time to chat!
 
+And finally, if you think I missed sopmething, please do a quick post somewhere and I will happily link to it here...
+
 All the best to you and your family! You rock!
