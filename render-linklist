@@ -1,0 +1,18 @@
+#!/bin/bash
+
+touch bookmarks.html
+echo "---" > bookmarks.html
+echo "layout: default" >> bookmarks.html
+echo "title: bookmarks" >> bookmarks.html
+echo "---" >> bookmarks.html
+echo " " >> bookmarks.html
+
+echo "<h1>Bookmarks</h1> " >> bookmarks.html
+
+redcarpet linklist.md >> bookmarks.html
+
+git add linklist.md
+git add bookmarks.html
+git ci -m "updated bookmarks"
+git pull
+git push origin master
