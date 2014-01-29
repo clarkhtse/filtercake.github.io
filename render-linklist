@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ~/projects/filtercake
+
 touch bookmarks.html
 echo "---" > bookmarks.html
 echo "layout: default" >> bookmarks.html
