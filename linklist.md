@@ -1,3 +1,4 @@
+- [Too DRY - The Grep Test](http://jamie-wong.com/2013/07/12/grep-test/) [2014-01-30]
 - [The Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html) [2014-01-30]
 - [Testing front end changes quickly and easily](http://mobiletestingfordummies.tumblr.com/post/37629799816/testing-front-end-changes-quickly-and-easily) [2014-01-30]
 - [Photoshop ICO plugin](http://www.telegraphics.com.au/sw/) [2014-01-30]
