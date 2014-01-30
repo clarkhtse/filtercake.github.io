@@ -1,3 +1,4 @@
+- [xkcd1313.ipynb](http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb) – more than I ever wanted to know about regex [2014-01-30]
 - [Tiny Docker Pieces, Loosely Joined](http://www.offermann.us/2013/12/tiny-docker-pieces-loosely-joined.html) [2014-01-30]
 - [GoodUI](http://goodui.org/) – growing collection of UI patterns [2014-01-30]
 - [unbreakable laws of user interface design](http://99designs.com/designer-blog/2014/01/15/7-unbreakable-laws-of-user-interface-design/) [2014-01-30]
