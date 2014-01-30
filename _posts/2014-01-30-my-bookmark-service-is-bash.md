@@ -15,7 +15,7 @@ thing:
 deps:
 ---
 
-I stopped bookmarking many years ago. Reasons were plenty and boring, so let's skip them. And although [Pinboard](https://pinboard.in/) is probably awesome, I tend to not use online services like it that much. I like control, I like it local, and offline and in plain text files – like the site you are looking at.
+I stopped bookmarking many years ago. Reasons were plenty and boring, so let's skip them. And although [Pinboard](https://pinboard.in/) is probably awesome, I tend to not use online services like it that much. I like control, I like it local, and offline and in plain text files – like the site you are looking at. I *don't* like having another account and depending on an external service which in al likelyness will have 100 features I don't need and will miss one or two features I deem *criiitiiicaaaaal*.
 
 Since I recently find myself searching the browser history more often than I want, I thought I could as well keep a simple bookmark list here. I don't want to *manage* bookmarks, for now I just want to dump them.
 
