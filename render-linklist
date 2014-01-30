@@ -9,7 +9,7 @@ echo "title: bookmarks" >> bookmarks.html
 echo "---" >> bookmarks.html
 echo " " >> bookmarks.html
 
-echo "<h1>Bookmarks</h1> " >> bookmarks.html
+echo "<h1>Bookmarks</h1>" >> bookmarks.html
 
 redcarpet linklist.md >> bookmarks.html
 
