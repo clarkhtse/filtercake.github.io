@@ -1,3 +1,4 @@
+- [That Turtleneck Is Choking You](https://medium.com/p/111767ddd8a8) – solid advice and a recommendation of Understanding Comics [2014-01-30]
 - [Data looks better naked](http://darkhorseanalytics.com/blog/data-looks-better-naked/) – on less is more [2014-01-30]
 - [xkcd1313.ipynb](http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb) – more than I ever wanted to know about regex [2014-01-30]
 - [Tiny Docker Pieces, Loosely Joined](http://www.offermann.us/2013/12/tiny-docker-pieces-loosely-joined.html) [2014-01-30]
