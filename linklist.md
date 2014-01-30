@@ -1,3 +1,4 @@
+- [Retr-O-Mat](http://www.plans-for-retrospectives.com/) [2014-01-30]
 - [Slogger](http://brettterpstra.com/projects/slogger/) [2014-01-30]
 - [git-annex](http://git-annex.branchable.com/) [2014-01-30]
 - [git-media](https://github.com/schacon/git-media) [2014-01-30]
