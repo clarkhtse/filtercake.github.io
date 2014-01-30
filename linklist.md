@@ -1,3 +1,4 @@
+- [Testing front end changes quickly and easily](http://mobiletestingfordummies.tumblr.com/post/37629799816/testing-front-end-changes-quickly-and-easily) [2014-01-30]
 - [Photoshop ICO plugin](http://www.telegraphics.com.au/sw/) [2014-01-30]
 - [Commit Logs From Last Night](http://www.commitlogsfromlastnight.com/) [2014-01-29]
 - [Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/) [2014-01-29]
