@@ -1,3 +1,4 @@
+- [GitHub Guides](http://guides.github.com/) – good agreement point for starting GitHub based projects [2014-01-30]
 - [Rapid chrome app development with angular](http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html) [2014-01-30]
 - [Angular.js service vs provider vs factory](http://stackoverflow.com/questions/15666048/angular-js-service-vs-provider-vs-factory/15666049#15666049) [2014-01-30]
 - [PhotoLove](http://www.photoloveprints.com/) – Print Your Instagram and Facebook Photos in Polaroid-Style [2014-01-30]
