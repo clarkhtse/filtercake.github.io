@@ -2481,11 +2481,31 @@ strong {
 }
 
 /* line 94, ../sass/main.sass */
-h1, h2 {
-  font-family: source_code_pro;
+h1, h2, p, blockquote, ul, ol, code, pre {
+  margin-bottom: 1em;
 }
 
 /* line 97, ../sass/main.sass */
+h1, h2, code {
+  font-family: source_code_pro;
+}
+
+/* line 100, ../sass/main.sass */
+h1 {
+  font-size: 2.62em;
+}
+
+/* line 102, ../sass/main.sass */
+h2 {
+  font-size: 1.62em;
+}
+
+/* line 105, ../sass/main.sass */
+.post pre {
+  padding: 0.5em;
+}
+
+/* line 108, ../sass/main.sass */
 body {
   font: 14px source_sans_pro;
 }
