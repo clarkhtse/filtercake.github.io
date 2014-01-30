@@ -34,7 +34,7 @@ Following below is the code I currently use.
 A few notes on that:
 
 - Yes, there are scripting languages which are probably suited much better for the job. But I recently decided to focus an Bash and JS/Node.
-- God, it is an awful hacky script, so don't try it home. It doesn't do any kind of error checking, proper escaping or the like.
+- God, it is an awful hacky script, so don't try it home. It doesn't do any kind of error checking, proper escaping or the like. It currently breaks when using *any* special characters.
 - I am just happy it actually works. Yay!
 - Thanks to the Alfred forum for helping out.
 
