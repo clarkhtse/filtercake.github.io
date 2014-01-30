@@ -1,3 +1,4 @@
+- [git-media](https://github.com/schacon/git-media) [2014-01-30]
 - [launchd(8) Mac OS X Manual Page](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/launchd.8.html) [2014-01-30]
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS) [2014-01-30]
 - [CSS Regression Testing](http://tldr.huddle.com/blog/css-testing/) [2014-01-30]
