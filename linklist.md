@@ -1,3 +1,4 @@
+- [unbreakable laws of user interface design - Designer Blog](http://99designs.com/designer-blog/2014/01/15/7-unbreakable-laws-of-user-interface-design/) [2014-01-30]
 - [Instacode](http://instacod.es/) [2014-01-30]
 - [GitHub Guides](http://guides.github.com/) – good agreement point for starting GitHub based projects [2014-01-30]
 - [Rapid chrome app development with angular](http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html) [2014-01-30]
