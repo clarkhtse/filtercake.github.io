@@ -1,3 +1,4 @@
+- [How to load json into angular.js ng-model?](http://stackoverflow.com/questions/13020821/how-to-load-json-into-my-angular-js-ng-model/13031318#13031318) [2014-01-31]
 - [Dark Patterns - User Interfaces Designed to Trick People](http://darkpatterns.org/) [2014-01-31]
 - [AngularJS: ngAnimate](http://docs.angularjs.org/api/ngAnimate) [2014-01-31]
 - [ng-animate js fiddle 1.1](http://jsfiddle.net/elthrasher/Uz2Dk/) [2014-01-31]
