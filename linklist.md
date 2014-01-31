@@ -1,3 +1,4 @@
+- [jquery - Code for a simple JavaScript countdown timer? - Stack Overflow](http://stackoverflow.com/questions/1191865/code-for-a-simple-javascript-countdown-timer) [2014-01-31]
 - [Imperative vs Declarative Scenarios in User Stories](http://benmabey.com/2008/05/19/imperative-vs-declarative-scenarios-in-user-stories.html) [2014-01-31]
 - [pdf: Arbeitgeberleistungen für Kinderbetreuung](http://www.mittelstand-und-familie.de/assets/Uploads/2013ArbeitgeberleistungZuschuss2.pdf) [2014-01-31]
 - [Lean Agile Design Thinking Timeline](http://secure.nordstrominnovationlab.com/pages/our_process_told_as_our_team_s_timeline) [2014-01-31]
