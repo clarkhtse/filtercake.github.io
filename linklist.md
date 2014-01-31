@@ -1,3 +1,4 @@
+- [AngularJS: ngAnimate](http://docs.angularjs.org/api/ngAnimate) [2014-01-31]
 - [ng-animate js fiddle 1.1](http://jsfiddle.net/elthrasher/Uz2Dk/) [2014-01-31]
 - [nForm Trading Cards – Customer Research, Information Architecture, Interaction Design, Usability, User Experience](http://nform.com/tradingcards/) [2014-01-31]
 - [IDEO Method Cards for iOS](https://itunes.apple.com/us/app/ideo-method-cards/id340233007?mt=8) [2014-01-31]
