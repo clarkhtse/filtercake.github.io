@@ -1,3 +1,4 @@
+- [fixpack](https://github.com/HenrikJoreteg/fixpack) – package.json file scrubber [2014-02-01]
 - [List Of Minimalist Frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) [2014-02-01]
 - [What every teacher should do](http://momastery.com/blog/2014/01/30/share-schools/) [2014-02-01]
 - [Building Persistent Sticky Notes with Local Storage](http://net.tutsplus.com/tutorials/html-css-techniques/building-persistant-sticky-notes-with-local-storage/) [2014-01-31]
