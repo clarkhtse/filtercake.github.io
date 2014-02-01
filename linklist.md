@@ -1,5 +1,6 @@
+- [What every teacher should do](http://momastery.com/blog/2014/01/30/share-schools/) [2014-02-01]
 - [Building Persistent Sticky Notes with Local Storage](http://net.tutsplus.com/tutorials/html-css-techniques/building-persistant-sticky-notes-with-local-storage/) [2014-01-31]
-- [jquery - Code for a simple JavaScript countdown timer? - Stack Overflow](http://stackoverflow.com/questions/1191865/code-for-a-simple-javascript-countdown-timer) [2014-01-31]
+- [simple JavaScript countdown timer](http://stackoverflow.com/questions/1191865/code-for-a-simple-javascript-countdown-timer) [2014-01-31]
 - [Imperative vs Declarative Scenarios in User Stories](http://benmabey.com/2008/05/19/imperative-vs-declarative-scenarios-in-user-stories.html) [2014-01-31]
 - [pdf: Arbeitgeberleistungen für Kinderbetreuung](http://www.mittelstand-und-familie.de/assets/Uploads/2013ArbeitgeberleistungZuschuss2.pdf) [2014-01-31]
 - [Lean Agile Design Thinking Timeline](http://secure.nordstrominnovationlab.com/pages/our_process_told_as_our_team_s_timeline) [2014-01-31]
