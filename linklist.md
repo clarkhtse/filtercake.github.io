@@ -1,3 +1,4 @@
+- [How do I "think in AngularJS" if I have a jQuery background?](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background) [2014-02-03]
 - [ng-class and ng-click](http://stackoverflow.com/questions/19352786/ng-class-and-ng-click-not-working/19352897#19352897) [2014-02-03]
 - [Merge several git commits into one using REBASE](https://lifeisimple.wordpress.com/2012/04/25/merge-several-git-commits-into-one-using-rebase/) [2014-02-03]
 - [Grunt vs Gulp - Beyond the Numbers](http://jaysoo.ca/2014/01/27/gruntjs-vs-gulpjs/) [2014-02-03]
