@@ -1,3 +1,4 @@
+- [Mac System 1.0](http://www3.nd.edu/~jvanderk/sysone/) – Mac Plus emulator [2014-02-04]
 - [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js) – free to read online [2014-02-04]
 - [ng-conf 2014](https://www.youtube.com/user/ngconfvideos) [2014-02-04]
 - [Build Podcast: 056 AngularJS](http://build-podcast.com/angularjs/) [2014-02-04]
