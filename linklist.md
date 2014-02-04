@@ -1,3 +1,4 @@
+- [Grunt by Example](http://www.brianchu.com/blog/2013/07/11/grunt-by-example-a-tutorial-for-javascripts-task-runner/) [2014-02-04]
 - [David and Goliath](http://figure53.com/notes/2014-02-04-david-and-goliath/) – via facebook paper [2014-02-04]
 - [Real life demo - Buzz, a Javascript HTML5 Audio library](http://buzz.jaysalvat.com/demo/) [2014-02-04]
 - [SoundJS – Sound Explosion Demo](http://www.createjs.com/#!/SoundJS/demos/explosion) [2014-02-04]
