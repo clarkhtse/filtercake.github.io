@@ -1,3 +1,4 @@
+- [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js) – free to read online [2014-02-04]
 - [ng-conf 2014](https://www.youtube.com/user/ngconfvideos) [2014-02-04]
 - [Build Podcast: 056 AngularJS](http://build-podcast.com/angularjs/) [2014-02-04]
 - [egghead.io - Learn AngularJS with Tutorial Videos and Training](https://egghead.io/) [2014-02-04]
