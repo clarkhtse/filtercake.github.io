@@ -1,3 +1,4 @@
+- [generator-mean](https://npmjs.org/package/generator-mean) [2014-02-04]
 - [Mean Stack](http://mean.io/) – Mongo, Express, Angular, Node [2014-02-04]
 - [grunt (minimatch/glob) folder exclusion](http://stackoverflow.com/questions/12632029/grunt-minimatch-glob-folder-exclusion) [2014-02-04]
 - [Landgericht Köln: Direkte URLs zu Bildern können zur Abmahnfalle werden](http://www.golem.de/news/landgericht-koeln-direkte-urls-zu-bildern-koennen-lizenzrechte-verletzen-1402-104335.html) [2014-02-04]
