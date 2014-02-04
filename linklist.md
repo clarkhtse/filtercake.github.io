@@ -1,3 +1,4 @@
+- [Tasmanian Devil (Looney Tunes) - Wikipedia](https://en.wikipedia.org/wiki/Tasmanian_Devil_(Looney_Tunes)) [2014-02-04]
 - [Vortex - Wikipedia](https://en.wikipedia.org/wiki/Vortex) [2014-02-04]
 - [How do I "think in AngularJS" if I have a jQuery background?](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background) [2014-02-03]
 - [ng-class and ng-click](http://stackoverflow.com/questions/19352786/ng-class-and-ng-click-not-working/19352897#19352897) [2014-02-03]
