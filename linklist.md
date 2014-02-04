@@ -1,3 +1,4 @@
+- [Build Podcast: 056 AngularJS](http://build-podcast.com/angularjs/) [2014-02-04]
 - [egghead.io - Learn AngularJS with Tutorial Videos and Training](https://egghead.io/) [2014-02-04]
 - [2014-02-04]
 - [Cloak VPN](https://www.getcloak.com/) [2014-02-04]
