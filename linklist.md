@@ -1,3 +1,4 @@
+- [Cloak VPN](https://www.getcloak.com/) [2014-02-04]
 - [Tasmanian Devil (Looney Tunes) - Wikipedia](https://en.wikipedia.org/wiki/Tasmanian_Devil_(Looney_Tunes)) [2014-02-04]
 - [Vortex - Wikipedia](https://en.wikipedia.org/wiki/Vortex) [2014-02-04]
 - [How do I "think in AngularJS" if I have a jQuery background?](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background) [2014-02-03]
