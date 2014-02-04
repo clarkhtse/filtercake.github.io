@@ -1,3 +1,4 @@
+- [Pattern Lab](http://demo.pattern-lab.info/) [2014-02-04]
 - [Understanding JavaScript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/) [2014-02-04]
 - [Grunt by Example](http://www.brianchu.com/blog/2013/07/11/grunt-by-example-a-tutorial-for-javascripts-task-runner/) [2014-02-04]
 - [David and Goliath](http://figure53.com/notes/2014-02-04-david-and-goliath/) – via facebook paper [2014-02-04]
