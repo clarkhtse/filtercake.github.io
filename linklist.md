@@ -1,3 +1,4 @@
+- [egghead.io - Learn AngularJS with Tutorial Videos and Training](https://egghead.io/) [2014-02-04]
 - [2014-02-04]
 - [Cloak VPN](https://www.getcloak.com/) [2014-02-04]
 - [Tasmanian Devil (Looney Tunes) - Wikipedia](https://en.wikipedia.org/wiki/Tasmanian_Devil_(Looney_Tunes)) [2014-02-04]
