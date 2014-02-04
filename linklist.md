@@ -1,3 +1,4 @@
+- [DONE - Daily Design Workout 2008](http://done.jbunti.com/) [2014-02-04]
 - [Design Something Every Day](http://www.smashingmagazine.com/2009/12/22/design-something-every-day/) [2014-02-04]
 - [Stock photos that don’t suck](https://medium.com/p/62ae4bcbe01b) [2014-02-04]
 - [The Tumbler](http://andrew-hoyer.com/experiments/tumbler/) - sound/vision experiment [2014-02-04]
