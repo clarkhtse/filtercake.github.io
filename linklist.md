@@ -1,3 +1,4 @@
+- [SoundJS – Sound Explosion Demo](http://www.createjs.com/#!/SoundJS/demos/explosion) [2014-02-04]
 - [2014-02-04]
 - [howler.js - Web Audio Javascript Library](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library) [2014-02-04]
 - [Angular UI Utils](http://angular-ui.github.io/ui-utils/) [2014-02-04]
