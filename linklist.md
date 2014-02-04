@@ -1,3 +1,4 @@
+- [David and Goliath](http://figure53.com/notes/2014-02-04-david-and-goliath/) – via facebook paper [2014-02-04]
 - [Real life demo - Buzz, a Javascript HTML5 Audio library](http://buzz.jaysalvat.com/demo/) [2014-02-04]
 - [SoundJS – Sound Explosion Demo](http://www.createjs.com/#!/SoundJS/demos/explosion) [2014-02-04]
 - [2014-02-04]
