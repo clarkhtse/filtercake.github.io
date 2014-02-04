@@ -1,3 +1,4 @@
+- [Landgericht Köln: Direkte URLs zu Bildern können zur Abmahnfalle werden](http://www.golem.de/news/landgericht-koeln-direkte-urls-zu-bildern-koennen-lizenzrechte-verletzen-1402-104335.html) [2014-02-04]
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows#package-managers-v118--download) [2014-02-04]
 - [DONE - Daily Design Workout 2008](http://done.jbunti.com/) [2014-02-04]
 - [Design Something Every Day](http://www.smashingmagazine.com/2009/12/22/design-something-every-day/) [2014-02-04]
