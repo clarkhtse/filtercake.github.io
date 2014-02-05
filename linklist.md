@@ -1,3 +1,4 @@
+- [Auf 1 Euro Sozialmissbrauch kommen 1400 Euro Steuerhinterziehung](http://www.hartz4-im-netz.de/PagEd-index-page_id-348.html) [2014-02-05]
 - [Gema fordert Geld für Youtube-Einbettungen](http://www.golem.de/news/urheberrecht-auch-die-gema-fordert-geld-fuer-youtube-einbettungen-1402-104358.html) [2014-02-05]
 - [Pattern Lab](http://demo.pattern-lab.info/) [2014-02-04]
 - [Understanding JavaScript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/) [2014-02-04]
