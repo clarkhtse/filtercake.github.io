@@ -1,3 +1,4 @@
+- [Remastered Animation in AngularJS 1.2](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html#presentation-slides) [2014-02-05]
 - [Animation in AngularJS 1.2](http://slid.es/gsklee/animation-in-angularjs-12) [2014-02-05]
 - [Auf 1 Euro Sozialmissbrauch kommen 1400 Euro Steuerhinterziehung](http://www.hartz4-im-netz.de/PagEd-index-page_id-348.html) [2014-02-05]
 - [Gema fordert Geld für Youtube-Einbettungen](http://www.golem.de/news/urheberrecht-auch-die-gema-fordert-geld-fuer-youtube-einbettungen-1402-104358.html) [2014-02-05]
