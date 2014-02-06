@@ -1,3 +1,4 @@
+- [git-checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/) [2014-02-06]
 - [angularjs - Change mouse pointer on ngclick - Stack Overflow](http://stackoverflow.com/questions/18896859/change-the-mouse-pointer-on-ngclick) [2014-02-06]
 - [Ladda](http://lab.hakim.se/ladda/) – inline button feedback [2014-02-06]
 - [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/) [2014-02-06]
