@@ -1,3 +1,4 @@
+- [Ladda](http://lab.hakim.se/ladda/) – inline button feedback [2014-02-06]
 - [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/) [2014-02-06]
 - [Temboo](https://temboo.com/) – processing API library [2014-02-06]
 - [Staggering Animations in AngularJS](http://www.yearofmoo.com/2013/12/staggering-animations-in-angularjs.html) [2014-02-05]
