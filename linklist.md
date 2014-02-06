@@ -1,3 +1,4 @@
+- [angularjs - Change mouse pointer on ngclick - Stack Overflow](http://stackoverflow.com/questions/18896859/change-the-mouse-pointer-on-ngclick) [2014-02-06]
 - [Ladda](http://lab.hakim.se/ladda/) – inline button feedback [2014-02-06]
 - [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/) [2014-02-06]
 - [Temboo](https://temboo.com/) – processing API library [2014-02-06]
