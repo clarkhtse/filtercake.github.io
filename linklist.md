@@ -1,3 +1,4 @@
+- [AngularJS: duplicates in repeater](http://docs.angularjs.org/error/ngRepeat:dupes) [2014-02-07]
 - [FutureJS - May 1-3 2014 Barcelona](http://futurejs.org/) [2014-02-07]
 - [Remastered Animation in AngularJS 1.2 - yearofmoo.com](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html#how-to-make-animations-in-angularjs) [2014-02-07]
 - [AngularJS: ngAnimate](http://docs.angularjs.org/api/ngAnimate) [2014-02-07]
