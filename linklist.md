@@ -1,3 +1,4 @@
+- [CSS3 transition height 0 to auto](http://css3.bradshawenterprises.com/animating_height/) [2014-02-07]
 - [Using HTML5/Javascript to generate and save a file](http://stackoverflow.com/questions/2897619/using-html5-javascript-to-generate-and-save-a-file/4551467#4551467) [2014-02-06]
 - [Demo of Angular Local Storage Module](http://gregpike.net/demos/angular-local-storage/demo/demo.html) [2014-02-06]
 - [git-checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/) [2014-02-06]
