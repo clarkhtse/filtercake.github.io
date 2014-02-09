@@ -1,3 +1,4 @@
+- [Raspberry Pi and Node Basic Setup](http://blog.rueedlinger.ch/2013/03/raspberry-pi-and-nodejs-basic-setup/) [2014-02-09]
 - [Photoshop Etiquette](http://photoshopetiquette.com/) [2014-02-09]
 - [My Favorite Things Lyrics](http://www.stlyrics.com/lyrics/thesoundofmusic/myfavoritethings.htm) [2014-02-07]
 - [AngularJS: duplicates in repeater](http://docs.angularjs.org/error/ngRepeat:dupes) [2014-02-07]
