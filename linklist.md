@@ -1,3 +1,4 @@
+- [grunt-css-metrics](https://npmjs.org/package/grunt-css-metrics) [2014-02-09]
 - [grunticon](https://github.com/filamentgroup/grunticon) [2014-02-09]
 - [stickma.de – Aufkleber drucken lassen](http://www.stickma.de/) [2014-02-09]
 - [Go Node Without Code](http://programming.oreilly.com/2014/02/go-node-without-code.html) – how command line tools improve development workflow [2014-02-09]
