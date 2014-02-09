@@ -1,3 +1,4 @@
+- [Photoshop Etiquette](http://photoshopetiquette.com/) [2014-02-09]
 - [My Favorite Things Lyrics](http://www.stlyrics.com/lyrics/thesoundofmusic/myfavoritethings.htm) [2014-02-07]
 - [AngularJS: duplicates in repeater](http://docs.angularjs.org/error/ngRepeat:dupes) [2014-02-07]
 - [FutureJS - May 1-3 2014 Barcelona](http://futurejs.org/) [2014-02-07]
