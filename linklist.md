@@ -1,3 +1,4 @@
+- [javascript - Converting an object to a string](http://stackoverflow.com/questions/5612787/converting-an-object-to-a-string/5612849#5612849) [2014-02-10]
 - [grunt-css-metrics](https://npmjs.org/package/grunt-css-metrics) [2014-02-09]
 - [grunticon](https://github.com/filamentgroup/grunticon) [2014-02-09]
 - [stickma.de – Aufkleber drucken lassen](http://www.stickma.de/) [2014-02-09]
