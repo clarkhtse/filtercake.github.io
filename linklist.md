@@ -1,3 +1,4 @@
+- [hub · the command-line wrapper for git](http://hub.github.com/) [2014-02-12]
 - [2014-02-12]
 - [Valentine Icon Set Collection](http://thenounproject.com/collection/valentine-set/?utm_source=februarynoungazette&utm_medium=email&utm_campaign=valentinestextlink)[2014-02-12]
 - [Animated SVG Icons: Using Snap.svg to animate SVG icons](http://tympanus.net/Development/AnimatedSVGIcons/) [2014-02-12]
