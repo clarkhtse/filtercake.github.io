@@ -1,3 +1,4 @@
+- [webfontloader](https://github.com/typekit/webfontloader) [2014-02-12]
 - [GitHub Education](https://education.github.com/) [2014-02-12]
 - [chrome-cli](https://github.com/prasmussen/chrome-cli) – control chrome from the command line [2014-02-12]
 - [typekit/webfontloader](https://github.com/typekit/webfontloader) [2014-02-12]
