@@ -1,3 +1,4 @@
+- [2014-02-12]
 - [Animated SVG Icons: Using Snap.svg to animate SVG icons](http://tympanus.net/Development/AnimatedSVGIcons/) [2014-02-12]
 - [2014-02-12]
 - [webfontloader](https://github.com/typekit/webfontloader) [2014-02-12]
