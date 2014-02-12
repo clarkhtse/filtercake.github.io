@@ -1,3 +1,4 @@
+- [GitHub Education](https://education.github.com/) [2014-02-12]
 - [chrome-cli](https://github.com/prasmussen/chrome-cli) – control chrome from the command line [2014-02-12]
 - [typekit/webfontloader](https://github.com/typekit/webfontloader) [2014-02-12]
 - [javascript - Converting an object to a string](http://stackoverflow.com/questions/5612787/converting-an-object-to-a-string/5612849#5612849) [2014-02-10]
