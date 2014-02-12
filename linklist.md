@@ -1,3 +1,4 @@
+- [grunticon](https://github.com/filamentgroup/grunticon) – set outputfile to scss [2014-02-12]
 - [Sache: Find Sass and Compass Extensions for your next project](http://www.sache.in/) [2014-02-12]
 - [hub · the command-line wrapper for git](http://hub.github.com/) [2014-02-12]
 - [2014-02-12]
