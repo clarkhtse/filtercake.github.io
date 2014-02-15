@@ -1,3 +1,4 @@
+- [Talent Is Persistence: What It Takes To Be An Independent Creative](http://99u.com/articles/20490/talent-is-persistence-what-it-takes-to-be-an-independent-creative) [2014-02-15]
 - [Prototyping with Sketch and d3.js](http://snips.net/blog/posts/2014/01-10-fast-interactive_prototyping_with_d3_js.html) [2014-02-15]
 - [William Penn’s CSS layouts](http://maccg.com/2013/11/william-penns-css-layouts/) – overview of current CSS layouting techniques [2014-02-15]
 - [grunticon](https://github.com/filamentgroup/grunticon) – set outputfile to scss [2014-02-12]
