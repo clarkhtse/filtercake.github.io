@@ -1,3 +1,4 @@
+- [2014-02-15]
 - [Never Trust a Skinny Chef](http://www.uxmatters.com/mt/archives/2014/02/never-trust-a-skinny-chef.php) – on constructing your own portfolio, profile, bio [2014-02-15]
 - [How To Build A CLI Tool With Node.js And PhantomJS](http://coding.smashingmagazine.com/2014/02/12/build-cli-tool-nodejs-phantomjs/) – on the example of automating appmanifest.json [2014-02-15]
 - [Talent Is Persistence: What It Takes To Be An Independent Creative](http://99u.com/articles/20490/talent-is-persistence-what-it-takes-to-be-an-independent-creative) – Interview with Kirby Ferguson of *Everything is a Remix* [2014-02-15]
