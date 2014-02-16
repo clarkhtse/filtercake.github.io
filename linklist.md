@@ -1,3 +1,4 @@
+- [Design for Performance](https://speakerdeck.com/lara/design-for-performance) [2014-02-16]
 - [Getting Started With Protractor](https://egghead.io/lessons/angularjs-getting-started-with-protractor) [2014-02-16]
 - [Jimdo/angular-directive-seed](https://github.com/Jimdo/angular-directive-seed) [2014-02-16]
 - [Is npm worth $2.6MM?](http://words.steveklabnik.com/is-npm-worth-26mm) [2014-02-16]
