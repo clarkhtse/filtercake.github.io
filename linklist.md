@@ -1,3 +1,4 @@
+- [Writing without knowing](http://programming.oreilly.com/2014/02/writing-without-knowing.html) [2014-02-16]
 - [2014-02-15]
 - [Never Trust a Skinny Chef](http://www.uxmatters.com/mt/archives/2014/02/never-trust-a-skinny-chef.php) – on constructing your own portfolio, profile, bio [2014-02-15]
 - [How To Build A CLI Tool With Node.js And PhantomJS](http://coding.smashingmagazine.com/2014/02/12/build-cli-tool-nodejs-phantomjs/) – on the example of automating appmanifest.json [2014-02-15]
