@@ -1,3 +1,4 @@
+- [Is npm worth $2.6MM?](http://words.steveklabnik.com/is-npm-worth-26mm) [2014-02-16]
 - [How we decide at it-agile](http://stefanroock.wordpress.com/2014/02/13/how-we-decide-at-it-agile/) [2014-02-16]
 - [Writing without knowing](http://programming.oreilly.com/2014/02/writing-without-knowing.html) [2014-02-16]
 - [2014-02-15]
