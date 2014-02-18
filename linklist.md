@@ -1,3 +1,4 @@
+- [UX is a Science. Not an Art.](http://thehipperelement.com/post/51160057897/ux-is-a-science-not-an-art) [2014-02-18]
 - [David Seah / Designing – Process Journal: On the Designing of Stuff](http://davidseah.com/design/) [2014-02-18]
 - [David Seah – In Search of Creative Independence](http://davidseah.com/) [2014-02-18]
 - [Design for Performance](https://speakerdeck.com/lara/design-for-performance) [2014-02-16]
