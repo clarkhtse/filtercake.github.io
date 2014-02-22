@@ -1,3 +1,4 @@
+- [Tidbit](http://tidbit.co.in/) – bitcoin mining instead of ads [2014-02-22]
 - [Hemingway](http://www.hemingwayapp.com/) – checks and rates text for good readibility. [2014-02-22]
 - [PDF: Lowering the Barriers to Programming – a survey of programming enviroments and languages for novice programmers](http://www.cs.cmu.edu/~caitlin/papers/NoviceProgSurvey.pdf) [2014-02-22]
 - [BitTorrent Sync](http://www.bittorrent.com/sync/) [2014-02-22]
