@@ -1,3 +1,4 @@
+- [BitTorrent Sync](http://www.bittorrent.com/sync/) [2014-02-22]
 - [tinytype](http://www.jordanm.co.uk/tinytype) – type compatibility across mobile platforms [2014-02-20]
 - [Back to Work 153 – Anxiety is a Goat](http://5by5.tv/b2w/153) [2014-02-19]
 - [Systematic 83: Dave Seah - Creative Productivity](http://5by5.tv/systematic/83) [2014-02-19]
