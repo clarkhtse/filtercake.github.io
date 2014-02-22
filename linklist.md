@@ -1,3 +1,4 @@
+- [Soldering is Easy Comic](http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) [2014-02-22]
 - [Story Of Stuff](http://storyofstuff.org/) [2014-02-22]
 - [Economix Comix – TPP](http://economixcomix.com/home/tpp/) [2014-02-22]
 - [Tidbit](http://tidbit.co.in/) – bitcoin mining instead of ads [2014-02-22]
