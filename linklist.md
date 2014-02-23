@@ -1,8 +1,8 @@
-- [2014-02-22]
-- [2014-02-22]
+- [How I Created My Own Cloud Using BitTorrent Sync, Raspberry Pi and Owncloud](http://blog.bittorrent.com/2013/05/23/how-i-created-my-own-personal-cloud-using-bittorrent-sync-owncloud-and-raspberry-pi/) [2014-02-23]
+- [Ember.JS – What it is and why we need to care about it](https://hacks.mozilla.org/2014/02/ember-js-what-it-is-and-why-we-need-to-care-about-it/?utm_source=javascriptweekly&utm_medium=email)
+- [AngularJS Scopes: An Introduction](http://blog.carbonfive.com/2014/02/11/angularjs-scopes-an-introduction/?utm_source=javascriptweekly&utm_medium=email) 
 - [Hologram icon](http://thenounproject.com/term/hologram/15718/) [2014-02-22]
 - [Holography](https://en.wikipedia.org/wiki/Holography) [2014-02-22]
-- [2014-02-22]
 - [HTML5 Noise Generator](http://playnoise.com/) [2014-02-22]
 - [BP® Herrenblouson schwarz](https://www.shop.bp-feelthedifference.de/cgi-bin/tradepro/shop/frontde/tradepro.cgi?func=det&wkid=8666912091600&rub=24089&root=51644&artnr=150&az=&sort=&pn=0)
 - [Pecard Motorcycle Leather Dressing](http://www.amazon.com/gp/product/B00E2547B2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00E2547B2&linkCode=as2&tag=happyexposure-20)
