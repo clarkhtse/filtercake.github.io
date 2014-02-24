@@ -1,3 +1,4 @@
+- [The New TextSecure – Privacy Beyond SMS](https://whispersystems.org/blog/the-new-textsecure/) [2014-02-24]
 - [PDF Prototyping Framework](http://www.nesta.org.uk/sites/default/files/prototyping_framework.pdf) [2014-02-24]
 - [Silicon Valley Season 1 Trailer](http://www.youtube.com/watch?v=69V__a49xtw) [2014-02-24]
 - [An easy introduction to AngularJS](http://blog.harrywolff.com/what-is-angularjs-and-why-is-it-awesome/) [2014-02-24]
