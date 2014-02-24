@@ -1,3 +1,4 @@
+- [An easy introduction to AngularJS](http://blog.harrywolff.com/what-is-angularjs-and-why-is-it-awesome/) [2014-02-24]
 - [Ghosting](http://www.lrb.co.uk/2014/02/21/andrew-ohagan/ghosting) – on working as a ghostwriter for julian assange [2014-02-24]
 - [PHP – a fractal of bad design](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/) [2014-02-24]
 - [Paper Prototyping Workshop auf der SMWHH 2014](http://www.slideshare.net/MarkoHiel/paper-prototyping-workshop-auf-der-smwhh-2014) [2014-02-24]
