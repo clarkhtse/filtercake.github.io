@@ -1,3 +1,4 @@
+- [Paper Prototyping Workshop auf der SMWHH 2014](http://www.slideshare.net/MarkoHiel/paper-prototyping-workshop-auf-der-smwhh-2014) [2014-02-24]
 - [How I Created My Own Cloud Using BitTorrent Sync, Raspberry Pi and Owncloud](http://blog.bittorrent.com/2013/05/23/how-i-created-my-own-personal-cloud-using-bittorrent-sync-owncloud-and-raspberry-pi/) [2014-02-23]
 - [Ember.JS – What it is and why we need to care about it](https://hacks.mozilla.org/2014/02/ember-js-what-it-is-and-why-we-need-to-care-about-it/?utm_source=javascriptweekly&utm_medium=email)
 - [AngularJS Scopes: An Introduction](http://blog.carbonfive.com/2014/02/11/angularjs-scopes-an-introduction/?utm_source=javascriptweekly&utm_medium=email) 
