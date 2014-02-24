@@ -1,3 +1,4 @@
+- [Silicon Valley Season 1 Trailer](http://www.youtube.com/watch?v=69V__a49xtw) [2014-02-24]
 - [An easy introduction to AngularJS](http://blog.harrywolff.com/what-is-angularjs-and-why-is-it-awesome/) [2014-02-24]
 - [Ghosting](http://www.lrb.co.uk/2014/02/21/andrew-ohagan/ghosting) – on working as a ghostwriter for julian assange [2014-02-24]
 - [PHP – a fractal of bad design](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/) [2014-02-24]
