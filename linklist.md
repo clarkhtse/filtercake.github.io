@@ -1,3 +1,4 @@
+- [Inside the Obsessive, Strange Mind of True Detective’s Nic Pizzolatto](http://www.thedailybeast.com/articles/2014/02/04/inside-the-obsessive-strange-mind-of-true-detective-s-nic-pizzolatto.html) [2014-02-25]
 - [Periodic Table of Storytelling](http://designthroughstorytelling.net/periodic/) [2014-02-25]
 - [Mission Control Desk](http://makezine.com/video/making-fun-mission-control-desk/) [2014-02-25]
 - [Is the Universe a Simulation?](http://www.nytimes.com/2014/02/16/opinion/sunday/is-the-universe-a-simulation.html?_r=0) [2014-02-25]
