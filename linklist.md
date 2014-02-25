@@ -1,3 +1,4 @@
+- [best quotes of Rust](http://www.reddit.com/r/TrueDetective/comments/1yw32r/could_we_get_a_thread_of_rusts_best_quotes_going/) – True Detective [2014-02-25]
 - [Git the whole picture in JIRA](http://blogs.atlassian.com/2014/02/git-whole-picture-jira/) [2014-02-25]
 - [The Rule of Three](http://www.codinghorror.com/blog/2013/07/rule-of-three.html) – Coding Horror [2014-02-25]
 - [Inside the Obsessive, Strange Mind of True Detective’s Nic Pizzolatto](http://www.thedailybeast.com/articles/2014/02/04/inside-the-obsessive-strange-mind-of-true-detective-s-nic-pizzolatto.html) [2014-02-25]
