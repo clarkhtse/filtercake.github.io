@@ -1,3 +1,4 @@
+- [Project Euler](https://projecteuler.net/) – math riddles to stop people from taking computer science [2014-02-26]
 - [Build Desktop Apps with JavaScript and Node WebKit](http://flippinawesome.org/2014/02/10/build-desktop-apps-with-javascript-and-node-webkit/) [2014-02-26]
 - [2014-02-26]
 - [Kickstarter analytics](https://www.kickstarter.com/blog/the-new-creator-dashboard) [2014-02-26]
