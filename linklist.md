@@ -1,3 +1,4 @@
+- [Build Desktop Apps with JavaScript and Node WebKit](http://flippinawesome.org/2014/02/10/build-desktop-apps-with-javascript-and-node-webkit/) [2014-02-26]
 - [2014-02-26]
 - [Kickstarter analytics](https://www.kickstarter.com/blog/the-new-creator-dashboard) [2014-02-26]
 - [best quotes of Rust](http://www.reddit.com/r/TrueDetective/comments/1yw32r/could_we_get_a_thread_of_rusts_best_quotes_going/) – True Detective [2014-02-25]
