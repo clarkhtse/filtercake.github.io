@@ -1,3 +1,4 @@
+- [2014-02-26]
 - [Kickstarter analytics](https://www.kickstarter.com/blog/the-new-creator-dashboard) [2014-02-26]
 - [best quotes of Rust](http://www.reddit.com/r/TrueDetective/comments/1yw32r/could_we_get_a_thread_of_rusts_best_quotes_going/) – True Detective [2014-02-25]
 - [Git the whole picture in JIRA](http://blogs.atlassian.com/2014/02/git-whole-picture-jira/) [2014-02-25]
