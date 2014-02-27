@@ -1,3 +1,4 @@
+- [Yahoo webcam images from millions of users intercepted by GCHQ](http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo) [2014-02-27]
 - [Response to Nodejitsu NPM Trademark](https://gist.github.com/mikeal/9242748) – drama baby [2014-02-27]
 - [screengif](https://github.com/dergachev/screengif) [2014-02-27]
 - [Interaction14 talks](http://vimeo.com/album/2488675) [2014-02-27]
