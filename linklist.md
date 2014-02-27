@@ -1,3 +1,4 @@
+- [The day Mario Kart died](http://arstechnica.com/gaming/2014/02/the-day-the-mario-kart-died-nintendos-killswitch-and-the-future-of-online-consoles/) [2014-02-27]
 - [Yahoo webcam images from millions of users intercepted by GCHQ](http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo) [2014-02-27]
 - [Response to Nodejitsu NPM Trademark](https://gist.github.com/mikeal/9242748) – drama baby [2014-02-27]
 - [screengif](https://github.com/dergachev/screengif) [2014-02-27]
