@@ -1,3 +1,4 @@
+- [patternlab-node](https://github.com/pattern-lab/patternlab-node) [2014-02-28]
 - [2014-02-28]
 - [Introduction to prototyping](http://www.slideshare.net/AlexisAntonelli/introduction-to-prototyping) [2014-02-28]
 - [Rapid Prototyping for the Web and Mobile Devices](http://www.slideshare.net/ProfsoUX/profso-ux-marcioleibovitchv4) – Prototyping is above all a means of communication [2014-02-28]
