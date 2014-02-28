@@ -1,3 +1,4 @@
+- [Pattern primer](http://adactio.com/journal/5028/) – by jeremy keith [2014-02-28]
 - [patternlab-node](https://github.com/pattern-lab/patternlab-node) [2014-02-28]
 - [2014-02-28]
 - [Introduction to prototyping](http://www.slideshare.net/AlexisAntonelli/introduction-to-prototyping) [2014-02-28]
