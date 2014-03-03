@@ -1,3 +1,4 @@
+- [DocPad - Streamlined Web Development](http://docpad.org/) [2014-03-03]
 - [Litecoin Wiki](https://litecoin.info/) [2014-03-03]
 - [A crypto-currency primer: Bitcoin vs. Litecoin](http://www.zdnet.com/a-crypto-currency-primer-bitcoin-vs-litecoin-7000024301/) [2014-03-03]
 - [Pattern primer](http://adactio.com/journal/5028/) – by jeremy keith [2014-02-28]
