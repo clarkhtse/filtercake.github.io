@@ -1,3 +1,4 @@
+- [Using UX Methods to Build a UX Business](http://www.slideshare.net/lrosenfeld/easting-our-own-dog-food-using-ux-methods-to-build-a-ux-business) [2014-03-03]
 - [code candies](http://www.codecandies.com/) [2014-03-03]
 - [Schlichter: "Bitcoin Is Cryptographic Gold"](http://www.zerohedge.com/news/2014-03-02/schlichter-bitcoin-cryptographic-gold) [2014-03-03]
 - [Projektmanagement](http://www.pm-profi.de/projektmanagement/) – schaukel [2014-03-03]
