@@ -1,3 +1,4 @@
+- [Code Guide by @mdo](http://mdo.github.io/code-guide/) [2014-03-04]
 - [Killing the Crunch Mode Antipattern](http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/) [2014-03-04]
 - [Facebook Analog Research Laboratory](https://www.facebook.com/analoglab) [2014-03-04]
 - [Origami - Design prototyping with Quartz Composer](http://facebook.github.io/origami/) [2014-03-03]
