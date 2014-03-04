@@ -1,3 +1,4 @@
+- http://www.buzzfeed.com/alanwhite/37-people-who-failed-so-spectacularly-they-almost-won [2014-03-04]
 - [Savoy Kino](http://www.savoy-filmtheater.de/filmprogramm.html) [2014-03-04]
 - [Code Guide by @mdo](http://mdo.github.io/code-guide/) [2014-03-04]
 - [Killing the Crunch Mode Antipattern](http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/) [2014-03-04]
