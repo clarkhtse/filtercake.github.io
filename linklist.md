@@ -1,3 +1,4 @@
+- [5-Star Graffiti](http://fffff.at/5-star-graffiti/) [2014-03-06]
 - [css-color-highlighting](https://atom.io/packages/css-color-highlighting) – atom package [2014-03-06]
 - [The Empathy Vacuum](http://www.eod.com/blog/2014/02/empathy-vacuum/) – romantimatic [2014-03-06]
 - [LICEcap](http://www.cockos.com/licecap/) [2014-03-06]
