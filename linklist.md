@@ -1,3 +1,4 @@
+- [The Empathy Vacuum](http://www.eod.com/blog/2014/02/empathy-vacuum/) – romantimatic [2014-03-06]
 - [LICEcap](http://www.cockos.com/licecap/) [2014-03-06]
 - [How to add a space after ng-repeat element](http://stackoverflow.com/questions/18434086/how-to-add-a-space-after-ng-repeat-element/18434368#18434368) [2014-03-05]
 - [The Three Rules Of Tdd](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) [2014-03-05]
