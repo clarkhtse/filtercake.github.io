@@ -1,3 +1,4 @@
+- [Jehovahs Witnesses Want Deaf People To Stop Masturbating Dubbed with 50 Cent](http://www.youtube.com/watch?v=QReUbe4kp-o) [2014-03-07]
 - [5-Star Graffiti](http://fffff.at/5-star-graffiti/) [2014-03-06]
 - [css-color-highlighting](https://atom.io/packages/css-color-highlighting) – atom package [2014-03-06]
 - [The Empathy Vacuum](http://www.eod.com/blog/2014/02/empathy-vacuum/) – romantimatic [2014-03-06]
