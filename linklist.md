@@ -1,3 +1,4 @@
+- [angularjs](https://atom.io/packages/angularjs) – atom package [2014-03-07]
 - [todo-show](https://atom.io/packages/todo-show) – atom package [2014-03-07]
 - [Writer](https://atom.io/packages/Writer) – Atom package [2014-03-07]
 - [cmd-9](https://atom.io/packages/cmd-9) – Atom package [2014-03-07]
