@@ -1,3 +1,4 @@
+- [Writer](https://atom.io/packages/Writer) – Atom package [2014-03-07]
 - [cmd-9](https://atom.io/packages/cmd-9) – Atom package [2014-03-07]
 - [Keybase](https://keybase.io/) – public key directory [2014-03-07]
 - [Reveal file in sidebar in Atom](http://discuss.atom.io/t/reveal-file-in-sidebar/2365/5) [2014-03-07]
