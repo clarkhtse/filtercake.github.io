@@ -1,3 +1,4 @@
+- [Log usability tests like a pro](http://www.userfocus.co.uk/articles/datalogging.html) [2014-03-07]
 - [angularjs](https://atom.io/packages/angularjs) – atom package [2014-03-07]
 - [todo-show](https://atom.io/packages/todo-show) – atom package [2014-03-07]
 - [Writer](https://atom.io/packages/Writer) – Atom package [2014-03-07]
