@@ -1,3 +1,4 @@
+- [Reveal file in sidebar in Atom](http://discuss.atom.io/t/reveal-file-in-sidebar/2365/5) [2014-03-07]
 - [Myth - CSS the way it was imagined.](http://www.myth.io/) [2014-03-07]
 - [color-picker](https://atom.io/packages/color-picker) – atom package [2014-03-07]
 - [mobile-preview](https://atom.io/packages/mobile-preview) – atom package [2014-03-07]
