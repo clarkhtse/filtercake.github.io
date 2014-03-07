@@ -1,11 +1,12 @@
+- [unregistered](https://atom.io/packages/unregistered) – best atom package eva [2014-03-07]
 - [Jehovahs Witnesses Want Deaf People To Stop Masturbating Dubbed with 50 Cent](http://www.youtube.com/watch?v=QReUbe4kp-o) [2014-03-07]
 - [5-Star Graffiti](http://fffff.at/5-star-graffiti/) [2014-03-06]
 - [css-color-highlighting](https://atom.io/packages/css-color-highlighting) – atom package [2014-03-06]
 - [The Empathy Vacuum](http://www.eod.com/blog/2014/02/empathy-vacuum/) – romantimatic [2014-03-06]
-- [LICEcap](http://www.cockos.com/licecap/) [2014-03-06]
+- [LICEcap](http://www.cockos.com/licecap/) [2014-03-06] – record animated gifs
 - [How to add a space after ng-repeat element](http://stackoverflow.com/questions/18434086/how-to-add-a-space-after-ng-repeat-element/18434368#18434368) [2014-03-05]
 - [The Three Rules Of Tdd](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) [2014-03-05]
-- http://www.buzzfeed.com/alanwhite/37-people-who-failed-so-spectacularly-they-almost-won [2014-03-04]
+- [People Who Failed So Spectacularly They Almost Won](http://www.buzzfeed.com/alanwhite/37-people-who-failed-so-spectacularly-they-almost-won)
 - [Savoy Kino](http://www.savoy-filmtheater.de/filmprogramm.html) [2014-03-04]
 - [Code Guide by @mdo](http://mdo.github.io/code-guide/) [2014-03-04]
 - [Killing the Crunch Mode Antipattern](http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/) [2014-03-04]
@@ -53,7 +54,7 @@
 - [Paper Prototyping Workshop auf der SMWHH 2014](http://www.slideshare.net/MarkoHiel/paper-prototyping-workshop-auf-der-smwhh-2014) [2014-02-24]
 - [How I Created My Own Cloud Using BitTorrent Sync, Raspberry Pi and Owncloud](http://blog.bittorrent.com/2013/05/23/how-i-created-my-own-personal-cloud-using-bittorrent-sync-owncloud-and-raspberry-pi/) [2014-02-23]
 - [Ember.JS – What it is and why we need to care about it](https://hacks.mozilla.org/2014/02/ember-js-what-it-is-and-why-we-need-to-care-about-it/?utm_source=javascriptweekly&utm_medium=email)
-- [AngularJS Scopes: An Introduction](http://blog.carbonfive.com/2014/02/11/angularjs-scopes-an-introduction/?utm_source=javascriptweekly&utm_medium=email) 
+- [AngularJS Scopes: An Introduction](http://blog.carbonfive.com/2014/02/11/angularjs-scopes-an-introduction/?utm_source=javascriptweekly&utm_medium=email)
 - [Hologram icon](http://thenounproject.com/term/hologram/15718/) [2014-02-22]
 - [Holography](https://en.wikipedia.org/wiki/Holography) [2014-02-22]
 - [HTML5 Noise Generator](http://playnoise.com/) [2014-02-22]
