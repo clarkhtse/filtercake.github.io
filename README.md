@@ -12,5 +12,4 @@ Foreman uses the `Procfile` to do `jekyll serve -w --baseurl ''` and `compass wa
     ![]({{site.baseurl}}/images/XXXXXXXXX)
 
 ## Thanks
-
-Robin for the Borhmaschine!
+Robin for the Bohrmaschine!
