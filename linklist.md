@@ -1,3 +1,4 @@
+- [Myth - CSS the way it was imagined.](http://www.myth.io/) [2014-03-07]
 - [color-picker](https://atom.io/packages/color-picker) – atom package [2014-03-07]
 - [mobile-preview](https://atom.io/packages/mobile-preview) – atom package [2014-03-07]
 - [unregistered](https://atom.io/packages/unregistered) – best atom package eva [2014-03-07]
