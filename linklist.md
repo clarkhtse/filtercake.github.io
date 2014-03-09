@@ -1,3 +1,4 @@
+- [Peter Watts Backlist](http://www.rifters.com/real/shorts.htm) – download all the novels [2014-03-09]
 - [True Detective Glossary](http://www.vulture.com/2014/03/true-detective-glossary.html?mid=twitter_vulture) [2014-03-09]
 - [Log usability tests like a pro](http://www.userfocus.co.uk/articles/datalogging.html) [2014-03-07]
 - [angularjs](https://atom.io/packages/angularjs) – atom package [2014-03-07]
