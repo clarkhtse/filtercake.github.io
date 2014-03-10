@@ -1,3 +1,4 @@
+- [True Detective — Art of the Title](http://www.artofthetitle.com/title/true-detective/) [2014-03-10]
 - [Twitter / abt_programming: “I don’t care if it works -...](https://twitter.com/abt_programming/status/439767285709176832)
 - [Adactio Journal—Continuum](http://adactio.com/journal/6692/) [2014-03-10]
 - [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html?utm_content=buffer2ddaa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
