@@ -1,3 +1,4 @@
+- [Atom Jenkins Dashboard](http://www.soulbroken.co.uk/code/atom-jenkins-dashboard/) [2014-03-10]
 - [Building Clickthrough Prototypes To Support Participatory Design](http://uxdesign.smashingmagazine.com/2014/03/06/building-clickthrough-prototypes-to-support-participatory-design/) [2014-03-10]
 - [True Detective — Art of the Title](http://www.artofthetitle.com/title/true-detective/) [2014-03-10]
 - [Twitter / abt_programming: “I don’t care if it works -...](https://twitter.com/abt_programming/status/439767285709176832)
