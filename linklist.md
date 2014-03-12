@@ -1,3 +1,4 @@
+- [The Chewbacca defense 2](https://www.youtube.com/watch?v=clKi92j6eLE) [2014-03-12]
 - [Future of StoryTelling](http://www.youtube.com/watch?v=DHeqQAKHh3M) [2014-03-10]
 - [pat on the back](https://twitter.com/matthewmccull/status/427525366886850560) [2014-03-10]
 - [SCSS utilities I can’t live without](http://hackingui.com/front-end/10-best-scss-utilities/) [2014-03-10]
