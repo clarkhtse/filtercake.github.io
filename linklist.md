@@ -1,3 +1,4 @@
+- [wtfjs](http://wtfjs.com/) [2014-03-12]
 - [CoreOS is Linux for Massive Server Deployments](https://coreos.com/) [2014-03-12]
 - [Why Puppet Chef Ansible arent good enough](https://www.domenkozar.com/2014/03/11/why-puppet-chef-ansible-arent-good-enough-and-we-can-do-better/) [2014-03-12]
 - [The Chewbacca defense 2](https://www.youtube.com/watch?v=clKi92j6eLE) [2014-03-12]
