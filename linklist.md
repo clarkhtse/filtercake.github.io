@@ -1,3 +1,4 @@
+- [Why Puppet Chef Ansible arent good enough](https://www.domenkozar.com/2014/03/11/why-puppet-chef-ansible-arent-good-enough-and-we-can-do-better/) [2014-03-12]
 - [The Chewbacca defense 2](https://www.youtube.com/watch?v=clKi92j6eLE) [2014-03-12]
 - [Future of StoryTelling](http://www.youtube.com/watch?v=DHeqQAKHh3M) [2014-03-10]
 - [pat on the back](https://twitter.com/matthewmccull/status/427525366886850560) [2014-03-10]
