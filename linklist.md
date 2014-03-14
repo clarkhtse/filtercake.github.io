@@ -1,3 +1,4 @@
+- [Atom Blog](http://blog.atom.io/2014/03/13/git-integration.html) [2014-03-14]
 - [Generator for Startup Framework](http://designmodo.com/generator/) [2014-03-13]
 - [Startup Design Framework](http://designmodo.com/startup/) [2014-03-13]
 - [How to use a single backslash in string interpolation in Sass](http://stackoverflow.com/questions/21641833/how-to-use-a-single-backslash-in-string-interpolation-in-sass) [2014-03-12]
