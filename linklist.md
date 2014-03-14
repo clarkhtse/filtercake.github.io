@@ -1,3 +1,4 @@
+- [Iterative Prototyping](http://de.slideshare.net/shilman/iterative-prototyping) – brilliant deck [2014-03-14]
 - [Maze solving algorithms](https://en.wikipedia.org/wiki/Maze_solving_algorithm) [2014-03-14]
 - [Lean Prototyping - A Practical Guide](http://de.slideshare.net/framebench/lean-prototyping-a-practical-guide) [2014-03-14]
 - [Useful GitHub patterns](http://blog.quickpeople.co.uk/2013/07/10/useful-github-patterns/) [2014-03-14]
