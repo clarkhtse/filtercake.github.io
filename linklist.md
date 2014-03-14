@@ -1,3 +1,4 @@
+- [Mobile Prototyping](http://de.slideshare.net/dlichaw/mobile-prototyping-25431091) – brilliant deck [2014-03-14]
 - [Morris prototyping - oredev - share](http://de.slideshare.net/shanemo/morris-prototyping-oredev-share) [2014-03-14]
 - [101 Things I Learned in Interaction Design School](http://www.ixd101.com/) [2014-03-14]
 - [Iterative Prototyping](http://de.slideshare.net/shilman/iterative-prototyping) – brilliant deck [2014-03-14]
