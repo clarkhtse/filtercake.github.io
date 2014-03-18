@@ -1,3 +1,4 @@
+- [Reset the Net](https://www.resetthenet.org/) [2014-03-18]
 - [CSS Diner](http://flukeout.github.io/) – Where we feast on CSS Selectors [2014-03-18]
 - [Mobile Prototyping](http://de.slideshare.net/dlichaw/mobile-prototyping-25431091) – brilliant deck [2014-03-14]
 - [Morris prototyping - oredev - share](http://de.slideshare.net/shanemo/morris-prototyping-oredev-share) [2014-03-14]
