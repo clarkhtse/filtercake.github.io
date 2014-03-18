@@ -1,3 +1,4 @@
+- [An easy introduction to AngularJS](http://blog.harrywolff.com/what-is-angularjs-and-why-is-it-awesome/) [2014-03-18]
 - [Washing hands in urinal](https://www.youtube.com/watch?v=V4M0Yk8O15E) [2014-03-18]
 - [Phenotype](https://en.wikipedia.org/wiki/Phenotype) [2014-03-18]
 - [Why people focus on the right-hand side of a design](http://www.creativebloq.com/netmag/why-people-focus-right-hand-side-design-3146267) [2014-03-18]
