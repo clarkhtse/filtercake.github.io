@@ -1,3 +1,4 @@
+- [Prezi - Blog - 10 Most Common Rookie Mistakes in Public Speaking](http://blog.prezi.com/latest/2014/2/7/10-most-common-rookie-mistakes-in-public-speaking.html) [2014-03-18]
 - [Reset the Net](https://www.resetthenet.org/) [2014-03-18]
 - [CSS Diner](http://flukeout.github.io/) – Where we feast on CSS Selectors [2014-03-18]
 - [Mobile Prototyping](http://de.slideshare.net/dlichaw/mobile-prototyping-25431091) – brilliant deck [2014-03-14]
