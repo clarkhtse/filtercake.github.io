@@ -1,3 +1,4 @@
+- [Using Sass and Compass Vertical Rhythm to set up typography](https://medium.com/typography/34fe2f1d2c02) [2014-03-19]
 - [Featured Products Should Also Link to Their Categories](http://baymard.com/blog/featured-products-category-link) [2014-03-19]
 - [Featured Products Should Also Link to Their Categories (43% Get it Wrong) - Articles - Baymard Institute](http://baymard.com/blog/featured-products-category-link) [2014-03-19]
 - [A look inside a designers sketchbook](http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook) [2014-03-19]
