@@ -1,3 +1,4 @@
+- [A look inside a designers sketchbook](http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook) [2014-03-19]
 - [design instincts vs design data](http://www.gv.com/lib/design-instinct-vs-data) [2014-03-19]
 - [How Usability Testing Drastically Improved My Clients App](http://uxdesign.smashingmagazine.com/2013/11/19/how-usability-testing-drastically-improved-my-clients-app/) [2014-03-19]
 - [Start Coding with Wireframes](http://alistapart.com/column/start-coding-with-wireframes) [2014-03-19]
