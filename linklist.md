@@ -1,3 +1,4 @@
+- [design instincts vs design data](http://www.gv.com/lib/design-instinct-vs-data) [2014-03-19]
 - [How Usability Testing Drastically Improved My Clients App](http://uxdesign.smashingmagazine.com/2013/11/19/how-usability-testing-drastically-improved-my-clients-app/) [2014-03-19]
 - [Start Coding with Wireframes](http://alistapart.com/column/start-coding-with-wireframes) [2014-03-19]
 - [You Shouldn’t Need A Reason For Not Having Kids](http://thoughtcatalog.com/jamie-berube/2014/02/you-shouldnt-need-a-reason-for-not-having-kids/) [2014-03-18]
