@@ -1,3 +1,4 @@
+- [Why I Sketch Every Day](https://medium.com/p/f5174a2b2c6e) [2014-03-19]
 - [Why do you love your job as a UX pro so much](http://userexperiencerocks.wordpress.com/2014/03/14/why-do-you-love-your-job-as-a-ux-pro-so-much/) [2014-03-19]
 - [Using Sass and Compass Vertical Rhythm to set up typography](https://medium.com/typography/34fe2f1d2c02) [2014-03-19]
 - [Featured Products Should Also Link to Their Categories](http://baymard.com/blog/featured-products-category-link) [2014-03-19]
