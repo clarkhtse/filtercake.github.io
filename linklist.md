@@ -1,3 +1,4 @@
+- [Shutting Down](https://medium.com/p/7958dae1d27b) [2014-03-20]
 - [Screenhero](http://screenhero.com/) – Collaborative Screen Sharing [2014-03-20]
 - [How to Deal With Quantitative Criticism – Measuring Usability](http://www.measuringusability.com/blog/quant-criticism.php) [2014-03-20]
 - [Where are all the Agile success stories?](http://davenicolette.wordpress.com/2014/03/08/where-are-all-the-agile-success-stories/) [2014-03-20]
