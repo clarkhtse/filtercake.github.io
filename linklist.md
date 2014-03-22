@@ -1,3 +1,4 @@
+- [Information is like Uranium](http://www.dmytri.info/information-is-like-uranium/) [2014-03-22]
 - [Shutting Down](https://medium.com/p/7958dae1d27b) [2014-03-20]
 - [Screenhero](http://screenhero.com/) – Collaborative Screen Sharing [2014-03-20]
 - [How to Deal With Quantitative Criticism – Measuring Usability](http://www.measuringusability.com/blog/quant-criticism.php) [2014-03-20]
