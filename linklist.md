@@ -1,3 +1,4 @@
+- [the bucket stool](https://steller.co/stories/211412907458561319) – beton hocker [2014-03-22]
 - [Information is like Uranium](http://www.dmytri.info/information-is-like-uranium/) [2014-03-22]
 - [Shutting Down](https://medium.com/p/7958dae1d27b) [2014-03-20]
 - [Screenhero](http://screenhero.com/) – Collaborative Screen Sharing [2014-03-20]
