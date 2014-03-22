@@ -1,3 +1,4 @@
+- [It Is Time For Basic Income](http://hawkins.ventures/post/80304090196/it-is-time-for-basic-income) [2014-03-22]
 - [the bucket stool](https://steller.co/stories/211412907458561319) – beton hocker [2014-03-22]
 - [Information is like Uranium](http://www.dmytri.info/information-is-like-uranium/) [2014-03-22]
 - [Shutting Down](https://medium.com/p/7958dae1d27b) [2014-03-20]
