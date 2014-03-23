@@ -1,3 +1,4 @@
+- [Rules to Make Your Icons Clear and Intuitive](http://uxmovement.com/buttons/9-rules-to-make-your-icons-clear-and-intuitive/) [2014-03-23]
 - [Domain-driven Design Example](http://www.mirkosertic.de/doku.php/architecturedesign/dddexample) [2014-03-23]
 - [Advanced Jekyll Plugins and Features](http://www.divshot.com/blog/web-development/advanced-jekyll-features) [2014-03-22]
 - [It Is Time For Basic Income](http://hawkins.ventures/post/80304090196/it-is-time-for-basic-income) [2014-03-22]
