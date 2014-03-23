@@ -1,3 +1,4 @@
+- [Domain-driven Design Example](http://www.mirkosertic.de/doku.php/architecturedesign/dddexample) [2014-03-23]
 - [Advanced Jekyll Plugins and Features](http://www.divshot.com/blog/web-development/advanced-jekyll-features) [2014-03-22]
 - [It Is Time For Basic Income](http://hawkins.ventures/post/80304090196/it-is-time-for-basic-income) [2014-03-22]
 - [the bucket stool](https://steller.co/stories/211412907458561319) – beton hocker [2014-03-22]
