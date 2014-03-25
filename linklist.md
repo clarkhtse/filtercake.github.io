@@ -1,3 +1,4 @@
+- [Microservices and SOA](http://www.infoq.com/news/2014/03/microservices-soa) [2014-03-25]
 - [Rules to Make Your Icons Clear and Intuitive](http://uxmovement.com/buttons/9-rules-to-make-your-icons-clear-and-intuitive/) [2014-03-23]
 - [Domain-driven Design Example](http://www.mirkosertic.de/doku.php/architecturedesign/dddexample) [2014-03-23]
 - [Advanced Jekyll Plugins and Features](http://www.divshot.com/blog/web-development/advanced-jekyll-features) [2014-03-22]
