@@ -25,12 +25,11 @@ So some day we cleaned a part of our whiteboard, and started collecting question
 
 ![]({{site.baseurl}}/images/2014/decision-board-0.1.jpg)
 
-So if you want to try this, here is how to do it:
+If you want to try this, here is how to do it:
 
-- You can just start it for yourself and see how it's going. If it solves problems for you, the team might agree easier to try it out.
-- Start it now.
 - If there is a kickoff meeting, that is the perfect starting point for the decision board.
 - But you can start it any time. Like... *now*.
+- You can just start it for yourself and see how it's going. See if it really solves a problem.
 - It has two lanes: "open questions" and "decisions and answers".
 - Don't do categories or other overhead. You can cluster later if it should get confusing.
 - Keep the question and the decision together.
@@ -38,7 +37,7 @@ So if you want to try this, here is how to do it:
 - Whenever a decision or answer arrives, put it beneath the question and move to *decided*.
 - It helps to have PostIts on your desk and next to the decision board, so they are always handy.
 
-In the mentioned post natum, 4 of 6 team members mentioned it as having been helpful. More importantly, all agreed on putting it on the team agenda to have this decision board for every feature, to start it from the beginning and maintain it more consistently.
+In the mentioned post natum, 4 of 6 team members independently mentioned it as having been helpful. More importantly, all agreed on putting it on the team agenda to have this decision board for every feature, to start it from the beginning and maintain it more consistently.
 
 I am really happy this thing has validated itself by helping us ship stuff. Couldn't ask for more.
 
