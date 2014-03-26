@@ -1,3 +1,4 @@
+- [Monomyth](https://en.wikipedia.org/wiki/Monomyth) [2014-03-26]
 - [Microservices and SOA](http://www.infoq.com/news/2014/03/microservices-soa) [2014-03-25]
 - [Rules to Make Your Icons Clear and Intuitive](http://uxmovement.com/buttons/9-rules-to-make-your-icons-clear-and-intuitive/) [2014-03-23]
 - [Domain-driven Design Example](http://www.mirkosertic.de/doku.php/architecturedesign/dddexample) [2014-03-23]
