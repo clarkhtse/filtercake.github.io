@@ -1,3 +1,4 @@
+- [The Default Trigger](http://christopherkosek.com/169508/2637589/comics/the-default-trigger) – comic on the student loans conspiracy [2014-03-30]
 - [Why Wu-Tang Will Release Just One Copy Of Its Secret Album](http://www.forbes.com/sites/zackomalleygreenburg/2014/03/26/why-wu-tang-will-release-just-one-copy-of-its-secret-album/) [2014-03-30]
 - [secondrealm.is](http://secondrealm.is/) [2014-03-30]
 - [Laverna - store your notes anonymously and encrypted](https://laverna.cc/) – can use remotestorage [2014-03-27]
