@@ -1,3 +1,4 @@
+- [secondrealm.is](http://secondrealm.is/) [2014-03-30]
 - [Laverna - store your notes anonymously and encrypted](https://laverna.cc/) – can use remotestorage [2014-03-27]
 - [Monomyth](https://en.wikipedia.org/wiki/Monomyth) [2014-03-26]
 - [Microservices and SOA](http://www.infoq.com/news/2014/03/microservices-soa) [2014-03-25]
