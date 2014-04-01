@@ -1,3 +1,4 @@
+- [how spotify builds a product](https://twitter.com/ferblape/status/448813238638358528) [2014-04-01]
 - [Software Engineering, Now With Cats](http://www.sandraandwoo.com/2012/11/19/0430-software-engineering-now-with-cats/) [2014-04-01]
 - [Practical Uses for Lego in Your Everyday Life](http://mashable.com/2014/02/25/lego-uses/) [2014-03-30]
 - [The Default Trigger](http://christopherkosek.com/169508/2637589/comics/the-default-trigger) – comic on the student loans conspiracy [2014-03-30]
