@@ -1,3 +1,4 @@
+- [BEAUTY OF MATHEMATICS](https://vimeo.com/77330591) [2014-04-01]
 - [2014-04-01]
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com/) [2014-04-01]
 - [Crypto 101](https://www.crypto101.io/) [2014-04-01]
