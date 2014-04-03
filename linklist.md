@@ -1,3 +1,4 @@
+- [Layout in Flipboard for Web and Windows](http://engineering.flipboard.com/2014/03/web-layouts/) [2014-04-03]
 - [Natural Language Form](http://tympanus.net/Tutorials/NaturalLanguageForm/) [2014-04-03]
 - [Spotify Engineering Culture - part 1](https://vimeo.com/85490944) [2014-04-02]
 - [Dad Turns Videos Of His Toddler Into Action Movies](http://www.huffingtonpost.com/2014/03/27/dad-toddler-action-movies-_n_5043133.html?ncid=fcbklnkushpmg00000063#slide=2138923) [2014-04-02]
