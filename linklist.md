@@ -1,3 +1,4 @@
+- [Annie Hall](http://www.youtube.com/watch?v=OpIYz8tfGjY) [2014-04-05]
 - [Sadly, this is not The Onion](http://www.reddit.com/r/nottheonion) [2014-04-05]
 - [DRM Removal Tools for eBooks](http://apprenticealf.wordpress.com/2012/09/10/drm-removal-tools-for-ebooks/) [2014-04-05]
 - [Security audit finds dev OUTSOURCED his JOB to China to goof off at work](http://www.theregister.co.uk/2013/01/16/developer_oursources_job_china/) [2014-04-05]
