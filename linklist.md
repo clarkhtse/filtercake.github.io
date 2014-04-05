@@ -1,3 +1,4 @@
+- [Wedgetail slide on camper demonstration](http://www.youtube.com/watch?v=WDHch7bJp8c) [2014-04-05]
 - [ANHR Visual Comparison](https://plus.google.com/photos/+DrewStewart/albums/5184276354908897233?banner=pwa) [2014-04-04]
 - [robot tralala](https://www.youtube.com/watch?v=canHzCiWoKI) [2014-04-04]
 - [anonymous email usability](http://www.lightbluetouchpaper.org/2014/04/03/current-state-of-anonymous-email-usability/) [2014-04-04]
