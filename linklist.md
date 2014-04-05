@@ -1,3 +1,4 @@
+- [Punk Economics](http://www.davidmcwilliams.ie/punk-economics) [2014-04-05]
 - [Annie Hall](http://www.youtube.com/watch?v=OpIYz8tfGjY) [2014-04-05]
 - [Sadly, this is not The Onion](http://www.reddit.com/r/nottheonion) [2014-04-05]
 - [DRM Removal Tools for eBooks](http://apprenticealf.wordpress.com/2012/09/10/drm-removal-tools-for-ebooks/) [2014-04-05]
