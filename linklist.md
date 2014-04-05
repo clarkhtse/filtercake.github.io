@@ -1,3 +1,4 @@
+- [DRM Removal Tools for eBooks](http://apprenticealf.wordpress.com/2012/09/10/drm-removal-tools-for-ebooks/) [2014-04-05]
 - [Security audit finds dev OUTSOURCED his JOB to China to goof off at work](http://www.theregister.co.uk/2013/01/16/developer_oursources_job_china/) [2014-04-05]
 - [Wedgetail slide on camper demonstration](http://www.youtube.com/watch?v=WDHch7bJp8c) [2014-04-05]
 - [ANHR Visual Comparison](https://plus.google.com/photos/+DrewStewart/albums/5184276354908897233?banner=pwa) [2014-04-04]
