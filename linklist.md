@@ -1,3 +1,4 @@
+- [Textiles and Digital Spaces](http://xxxclairewilliamsxxx.wordpress.com/) [2014-04-07]
 - [Punk Economics](http://www.davidmcwilliams.ie/punk-economics) [2014-04-05]
 - [Annie Hall](http://www.youtube.com/watch?v=OpIYz8tfGjY) [2014-04-05]
 - [Sadly, this is not The Onion](http://www.reddit.com/r/nottheonion) [2014-04-05]
