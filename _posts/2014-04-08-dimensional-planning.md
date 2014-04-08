@@ -15,13 +15,13 @@ And if you wonder what "hierarchical drawing" means, here is the appropiate exce
 
 ![]({{site.baseurl}}/images/2014/hierarchical-drawing.jpg)
 
-Turns out there is an equivalent concept for software: "Dimensional Planning". Sadly, very little of this is online:
+Turns out there is an equivalent concept for building software: "Dimensional Planning". Sadly, very little about it can be found online:
 
 - [Dimensional Planning – Abstract from Devoxx09](http://www.devoxx.com/display/DV09/Dimensional+Planning)
 - [Dimensional Planning – Agile Atlas](http://agileatlas.org/articles/item/dimensional-planning)
 - [Dimensional Planning – XP Days Benelux 2007](http://www.xpday.net/Xpday2007/session/DimensionalPlanning.html)
 
-But [Arne](https://twitter.com/arneroock) pointed me to a german article in *Agile Review*, a magazine [it-agile](http://www.it-agile.de/) makes for its customers. So what follows are some notes from "Dimensional Planning" by [Stefan Roock](https://twitter.com/StefanRoock), Agile Review 01/2013. *[Personal comments by myself are in italic brackets.]*
+But [Arne](https://twitter.com/arneroock) pointed me to a german article in *Agile Review*, a magazine [it-agile](http://www.it-agile.de/) makes for its clients. Following are some notes from "Dimensional Planning" by [Stefan Roock](https://twitter.com/StefanRoock), Agile Review 01/2013. *[Personal comments by myself are in italic brackets.]*
 
 ---
 
@@ -45,7 +45,7 @@ But [Arne](https://twitter.com/arneroock) pointed me to a german article in *Agi
 
 The levels:
 
-- **Dirt road:** Paste SQL query template into DB, paste output into word template. *[No UI. Just a manual workflow to get from A to B.]*
+- **Dirt road:** Paste SQL query template into DB, paste output into word template. *[Note no UI at all. Just a manual workflow to get from A to B.]*
 - **Cobblestone:** Start automation, eg make complete invoice from data. Just the legal basics, no options (eg no private persons, no discounts, etc)
 - **Asphalt:** The state of today with all expected features (including persons, discounts, individual VAT per item, asf)
 - **Highway:** state of the art, exceed expectations, build USPs (eg custom layouts, import, export, APIs to external services, etc).
