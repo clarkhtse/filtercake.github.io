@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dimensional Planning"
+title: "Dimensional Planning of Software Features"
 poster: dimensional-planning.jpg
 postercredit: http://www.amazon.de/101-Things-Learned-Architecture-School/dp/0262062666/
 ---
