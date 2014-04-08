@@ -1,3 +1,4 @@
+- [examples of card-based web design](https://econsultancy.com/blog/64646-15-delicious-examples-of-card-based-web-design) [2014-04-08]
 - [Building a Porn Startup – The Worst Drug](http://nextshark.com/building-a-porn-startup-an-interview-with-the-founders-of-the-worst-drug-mildly-nsfw/) [2014-04-08]
 - [Textiles and Digital Spaces](http://xxxclairewilliamsxxx.wordpress.com/) [2014-04-07]
 - [Punk Economics](http://www.davidmcwilliams.ie/punk-economics) [2014-04-05]
