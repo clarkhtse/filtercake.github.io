@@ -1888,34 +1888,38 @@ ul.posts {
 .fa-try:before {
   content: "\f195"; }
 
-/* line 8, ../sass/main.sass */
+/* line 5, ../sass/main.sass */
+hr {
+  margin-bottom: 1em; }
+
+/* line 11, ../sass/main.sass */
 .indented-icon:before, .post--title:before {
   position: relative;
   left: -1.5em;
   font-weight: normal; }
 
-/* line 19, ../sass/main.sass */
+/* line 22, ../sass/main.sass */
 .unindented-icon:before, .vcard--icon--github:before, .vcard--icon--twitter:before, .vcard--icon--flickr:before {
   margin-right: 0.5em;
   font-weight: normal; }
 
-/* line 26, ../sass/main.sass */
+/* line 29, ../sass/main.sass */
 .title, .post--title {
   line-height: 1.2em;
   font-weight: bold;
   text-transform: capitalize; }
 
-/* line 32, ../sass/main.sass */
+/* line 35, ../sass/main.sass */
 .post--title {
   font-size: 2.62em; }
 
-/* line 42, ../sass/main.sass */
+/* line 45, ../sass/main.sass */
 .post ul li {
   list-style: square outside; }
-/* line 45, ../sass/main.sass */
+/* line 48, ../sass/main.sass */
 .post ol li {
   list-style: decimal outside; }
-/* line 48, ../sass/main.sass */
+/* line 51, ../sass/main.sass */
 .post blockquote {
   font-family: source_code_pro;
   max-width: 35em;
@@ -1923,51 +1927,52 @@ ul.posts {
   border-left: 0.25em solid #dddddd;
   margin-left: 4em;
   font-size: 0.9em; }
-  /* line 57, ../sass/main.sass */
+  /* line 60, ../sass/main.sass */
   .post blockquote em {
     text-decoration: underline;
     font-style: normal; }
 
-/* line 72, ../sass/main.sass */
+/* line 75, ../sass/main.sass */
 .post--poster--image:after {
   content: "ffd"; }
 
-/* line 77, ../sass/main.sass */
+/* line 80, ../sass/main.sass */
 em {
   font-style: italic; }
 
-/* line 79, ../sass/main.sass */
+/* line 82, ../sass/main.sass */
 strong {
   font-weight: bold; }
 
-/* line 82, ../sass/main.sass */
+/* line 85, ../sass/main.sass */
 .contact {
   font-size: 1.3em; }
 
-/* line 86, ../sass/main.sass */
+/* line 89, ../sass/main.sass */
 .post img {
   width: 100%; }
 
-/* line 89, ../sass/main.sass */
-h1, h2, p, blockquote, ul, ol, code, pre {
-  margin-bottom: 1em; }
-
 /* line 92, ../sass/main.sass */
+h1, h2, p, blockquote, ul, ol, code, pre {
+  margin-bottom: 1em;
+  margin-top: 1.5em; }
+
+/* line 96, ../sass/main.sass */
 h1, h2, code {
   font-family: source_code_pro; }
 
-/* line 95, ../sass/main.sass */
+/* line 99, ../sass/main.sass */
 h1 {
   font-size: 2.62em; }
 
-/* line 97, ../sass/main.sass */
+/* line 101, ../sass/main.sass */
 h2 {
   font-size: 1.62em; }
 
-/* line 100, ../sass/main.sass */
+/* line 104, ../sass/main.sass */
 .post pre {
   padding: 0.5em; }
 
-/* line 103, ../sass/main.sass */
+/* line 107, ../sass/main.sass */
 body {
   font: 14px source_sans_pro; }
