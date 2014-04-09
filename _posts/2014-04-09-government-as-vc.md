@@ -3,14 +3,6 @@ layout: post
 title: "Government as radical, patient VC"
 link: http://longnow.org/seminars/02014/mar/24/entrepreneurial-state-debunking-private-vs-public-sector-myths/
 published: true
-tags:
-comments: false
-poster:
-postercredit:
-image:
-caption:
-quote:
-summary:
 ---
 
 A "Seminar About Long-term Thinking" from [The Long Now Foundation](http://longnow.org/) and the best thing I have listened to in months.
