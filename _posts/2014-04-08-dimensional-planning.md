@@ -5,17 +5,17 @@ poster: dimensional-planning.jpg
 postercredit: http://www.amazon.de/101-Things-Learned-Architecture-School/dp/0262062666/
 ---
 
-So we had an internal workshop on user stories, which I am [using as the basis for an info poster](http://filtercake.tumblr.com/post/82007941296/prototype-of-an-info-poster-on-user-stories-based). While we were handed lots of possible ways to [split user stories into smaller ones](https://encrypted.google.com/search?hl=en&q=how%20to%20split%20user%20stories), I want something linear for the poster which will get helpful results from the start.
+We recently had an internal workshop on user stories, which I am [using as the basis for an info poster](http://filtercake.tumblr.com/post/82007941296/prototype-of-an-info-poster-on-user-stories-based). While we were handed lots of possible ways to [split user stories into smaller ones](https://encrypted.google.com/search?hl=en&q=how%20to%20split%20user%20stories), I want something linear for the poster which will lead to helpful results from the beginning.
 
-While our team was working on [the new Jimdo shipping costs](http://blog.jimdo.com/new-shipping-cost-options/) during the past months, one particular thing bothered me *all the time*:
+While our team was working on [the new Jimdo shipping costs](http://blog.jimdo.com/new-shipping-cost-options/) during the past months, one particular thing bothered me all the time:
 
 > How could we apply the concept of *Hierarchical Drawing* to our work on the feature?
 
-And if you wonder what "hierarchical drawing" means, here is the appropiate excerpt from [101 Things I Learned  In Architecture School](http://www.amazon.de/101-Things-Learned-Architecture-School/dp/0262062666/):
+And if you wonder what "hierarchical drawing" means, here is the related excerpt from [101 Things I Learned  In Architecture School](http://www.amazon.de/101-Things-Learned-Architecture-School/dp/0262062666/):
 
 ![]({{site.baseurl}}/images/2014/hierarchical-drawing.jpg)
 
-Turns out there is an equivalent concept for building software: "Dimensional Planning". Sadly, very little about it can be found online:
+But we build software, right? Turns out there is an equivalent concept for development: "Dimensional Planning". Sadly, very little about it can be found online:
 
 - [Dimensional Planning – Abstract from Devoxx09](http://www.devoxx.com/display/DV09/Dimensional+Planning)
 - [Dimensional Planning – Agile Atlas](http://agileatlas.org/articles/item/dimensional-planning)
@@ -39,27 +39,27 @@ But [Arne](https://twitter.com/arneroock) pointed me to a german article in *Agi
 - asphalt
 - highway
 
-*[An important aspect of software is to **enable the user to get a job done**. Within the metaphor, the user wants to get from point A to point B. A dirt road does the job.]*
+*[I really like the road metaphor. An important aspect of software is to __enable the user to get a job done__. Within the metaphor, the user wants to get from point A to point B.]*
 
 ## Example: invoicing.
 
 The levels:
 
-- **Dirt road:** Paste SQL query template into DB, paste output into word template. *[Note no UI at all. Just a manual workflow to get from A to B.]*
-- **Cobblestone:** Start automation, eg make complete invoice from data. Just the legal basics, no options (eg no private persons, no discounts, etc)
-- **Asphalt:** The state of today with all expected features (including persons, discounts, individual VAT per item, asf)
+- **Dirt road:** Paste SQL query template, paste result into word template. *[Note no UI at all. Just a database and a manual workflow to get from A to B.]*
+- **Cobblestone:** Start automation, eg make complete invoice from data. Just the legal basics, no options (eg no private persons, no discounts, etc). *[Basic, unstyled interface to see if the right elements are used]*.
+- **Asphalt:** The state of today with all expected features (including persons, discounts, individual VAT per item, asf). *[Looking good]*
 - **Highway:** state of the art, exceed expectations, build USPs (eg custom layouts, import, export, APIs to external services, etc).
 
 ## Iterations and releases
 
 Doing release cycles this ways additionally offers:
 
-- getting basic feedback of value *very* quickly
-- "walking skeleton": put on meat, muscles, skin, etc later, when you're sure the skeleton is actually complete and *does* walk
+- getting feedback on value *very* quickly
+- "walking skeleton": put on meat, muscles, skin, etc later, when you're sure the skeleton is actually complete and can use arms, legs and head.
 
 ## Not a silver bullet
 
-Not every thing is a nail just because you bought a new hammer. Accordingly, Dimensional Planning is not by design the best method for everything. Dimensional Planning might help in these scenarios:
+Not everything is a nail just because you bought a new hammer. Accordingly, Dimensional Planning is not by design the best method for everything. It might help in these scenarios:
 
 - a complete but low-quality version helps to answer questions and assess risks
 - a complete but low-quality version can be used by a small niche group of users
