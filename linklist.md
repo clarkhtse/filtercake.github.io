@@ -1,3 +1,4 @@
+- [MARIANA MAZZUCATO](http://marianamazzucato.com/) [2014-04-10]
 - [animals being dicks](http://animalsbeingdicks.com/) [2014-04-09]
 - [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh?hl=en-US) – CSS debugger [2014-04-09]
 - [The Setup – Lux Alptraum](http://lux.alptraum.usesthis.com/) [2014-04-09]
