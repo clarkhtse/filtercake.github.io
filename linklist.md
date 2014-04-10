@@ -1,3 +1,4 @@
+- [emmet](http://emmet.io/download/) [2014-04-10]
 - [Emmet LiveStyle — live bi-directional CSS edit](http://livestyle.emmet.io/) [2014-04-10]
 - [MARIANA MAZZUCATO](http://marianamazzucato.com/) [2014-04-10]
 - [animals being dicks](http://animalsbeingdicks.com/) [2014-04-09]
