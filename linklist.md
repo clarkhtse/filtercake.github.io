@@ -1,3 +1,4 @@
+- [Management Innovation : problems, facts and 10 lessons for the future](http://thehypertextual.com/2010/04/07/management-innovation-problems-facts-and-10-lessons-for-the-future/) [2014-04-12]
 - [GitHub for Poets](https://www.kickstarter.com/backing-and-hacking/github-for-poets) – kickstarter github [2014-04-12]
 - [What Heartbleed Can Teach The OSS Community About Marketing](http://www.kalzumeus.com/2014/04/09/what-heartbleed-can-teach-the-oss-community-about-marketing/) [2014-04-10]
 - [MEGKnowable](http://knowable.org/projects/82) [2014-04-10]
