@@ -1,3 +1,4 @@
+- [Replacing Personas With Characters](https://medium.com/p/aa72d3cf6c69) [2014-04-16]
 - [Regression Testing and CSS](http://blog.kevinlamping.com/post/69934095105/regression-testing-and-css) [2014-04-16]
 - [regret.css](https://github.com/klamping/regret.css) [2014-04-16]
 - [cburgmer at wordpress](http://cburgmer.wordpress.com/) [2014-04-16]
