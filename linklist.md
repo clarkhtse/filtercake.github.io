@@ -1,3 +1,4 @@
+- [Regression Testing and CSS](http://blog.kevinlamping.com/post/69934095105/regression-testing-and-css) [2014-04-16]
 - [regret.css](https://github.com/klamping/regret.css) [2014-04-16]
 - [cburgmer at wordpress](http://cburgmer.wordpress.com/) [2014-04-16]
 - [Kids And Their Brilliant Answers To Test Question](http://www.viralnova.com/awesome-kid-answers/) [2014-04-15]
