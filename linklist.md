@@ -1,3 +1,4 @@
+- [funny crazy cats](http://www.youtube.com/watch?v=OAX7af8CZwQ) [2014-04-17]
 - [Goat Simulator](https://www.youtube.com/watch?v=4MGAWx1nm48) [2014-04-17]
 - [Hack Isn’t PHP](http://www.marco.org/2014/03/21/hack) [2014-04-16]
 - [Busta Rhymes – Touch It ](https://vimeo.com/43306379) [2014-04-16]
