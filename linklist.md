@@ -1,3 +1,4 @@
+- [The magical command line](http://www.stubbornella.org/content/2014/03/30/the-magical-command-line/) [2014-04-21]
 - [don hertzfeldt AMA](http://www.reddit.com/r/IAmA/comments/eykz5/don_hertzfeldt_filmmaker_ama/) [2014-04-20]
 - [PeerCDN](https://peercdn.com/) [2014-04-19]
 - [10 HOURS Epic Funny Cats](https://www.youtube.com/watch?v=XJUBwNguJpQ) [2014-04-18]
