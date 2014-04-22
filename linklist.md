@@ -1,3 +1,4 @@
+- [GitGutter](http://www.jisaacks.com/gitgutter) [2014-04-22]
 - [CSS Specificity](http://cssspecificity.com/) [2014-04-22]
 - [IxD (Interaction Design) Checklist](http://ixdchecklist.com/) [2014-04-22]
 - [Delightfully Simple Animation Shows Kids Why Design Matters](http://www.fastcodesign.com/3028573/delightfully-simple-animation-shows-kids-why-design-matters) [2014-04-22]
