@@ -1,3 +1,4 @@
+- [Delightfully Simple Animation Shows Kids Why Design Matters](http://www.fastcodesign.com/3028573/delightfully-simple-animation-shows-kids-why-design-matters) [2014-04-22]
 - [How To Give the Killer Tech Talk](http://writing.jan.io/2013/05/10/how-to-give-the-killer-tech-talk---a-pamphlet.html) [2014-04-22]
 - [GitBook](http://www.gitbook.io/) [2014-04-22]
 - [The magical command line](http://www.stubbornella.org/content/2014/03/30/the-magical-command-line/) [2014-04-21]
