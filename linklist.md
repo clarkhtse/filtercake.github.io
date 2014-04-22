@@ -1,3 +1,4 @@
+- [MachinePix – A Tiger-Stone road laying machine](https://twitter.com/MachinePix/status/456534307926863872) [2014-04-22]
 - [2014-04-22]
 - [GitGutter](http://www.jisaacks.com/gitgutter) [2014-04-22]
 - [CSS Specificity](http://cssspecificity.com/) [2014-04-22]
