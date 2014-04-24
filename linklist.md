@@ -1,4 +1,6 @@
-- [2014-04-23]
+- [Designer, Architect, Developer](http://tom.preston-werner.com/2010/12/11/designer-architect-developer.html) [2014-04-24]
+- all of this is so terrible: [IMs and Emails Support Allegations About the Toxic Culture at GitHub](http://valleywag.gawker.com/ims-and-email-support-allegations-about-the-toxic-cultu-1567175545) / [Secret - Full story on this github/harassment debacle? Anyone?](https://www.secret.ly/p/vvxmpyyvnqgfeigryywqzmbvwg) / [Farewell GitHub, Hello Immersive Computing](http://tom.preston-werner.com/2014/04/21/farewell-github-hello-immersive-computing.html) / 
+- [understanding di](https://github.com/btford/briantford.com/blob/master/jade/blog/understanding-di.md?utm_content=buffer61fd4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)[2014-04-23]
 - [Pixelapse - Visual version control for designers](https://www.pixelapse.com/) [2014-04-23]
 - [Paulinchen](http://paulinchen.de/) [2014-04-22]
 - [We spent a week making Trello boards load extremely fast. Here’s how we did it.](http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/?fccmp=news04172014) [2014-04-22]
