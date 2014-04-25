@@ -1,3 +1,4 @@
+- [codinghorror on Parenthood](http://blog.codinghorror.com/on-parenthood/) [2014-04-25]
 - [Load-grunt-configs](http://creynders.github.io/load-grunt-configs/) [2014-04-25]
 - [tapestry](https://github.com/PebbleRoad/tapestry) – angular based pattern lib [2014-04-25]
 - Atomic Design: [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/) – [periodic table of html elements](http://bradfrostweb.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-13-at-5.15.05-PM.png) – [Brad Frost – Atomic Design – beyond tellerrand 2013](http://vimeo.com/67476280) – [HTML5 element list](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list) – [Pattern Lab](http://patternlab.io/)
