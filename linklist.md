@@ -1,3 +1,4 @@
+- [Air Display – turn your iPad into a wireless second monitor](http://www.avatron.com/apps/air-display/) [2014-04-26]
 - [codinghorror on Parenthood](http://blog.codinghorror.com/on-parenthood/) [2014-04-25]
 - [Load-grunt-configs](http://creynders.github.io/load-grunt-configs/) [2014-04-25]
 - [tapestry](https://github.com/PebbleRoad/tapestry) – angular based pattern lib [2014-04-25]
