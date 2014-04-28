@@ -1,4 +1,5 @@
-- [Mike Monteiro - How Designers Destroyed the World on Vimeo](http://vimeo.com/68470326) [2014-04-27]
+- [Web Components in Action](https://www.youtube.com/watch?v=0g0oOOT86NY) [2014-04-28]
+- [Mike Monteiro - How Designers Destroyed the World on Vimeo](http://vimeo.com/68470326) – “don’t work for anyone you’re afraid to say to.” [2014-04-27]
 - [Y Combinator Designer Directory](https://ycdesign.wufoo.com/forms/y-combinator-designer-directory/) [2014-04-26]
 - [Air Display – turn your iPad into a wireless second monitor](http://www.avatron.com/apps/air-display/) [2014-04-26]
 - [codinghorror on Parenthood](http://blog.codinghorror.com/on-parenthood/) [2014-04-25]
