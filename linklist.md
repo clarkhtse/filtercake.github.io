@@ -1,3 +1,4 @@
+- [Setup gh-pages branch and master branch as subfolders of a parent project folder](https://gist.github.com/chrisjacob/833223) [2014-04-30]
 - [The Line Length Misconception](http://viget.com/inspire/the-line-length-misconception) [2014-04-30]
 - [Web Components in Action](https://www.youtube.com/watch?v=0g0oOOT86NY) [2014-04-28]
 - [Mike Monteiro - How Designers Destroyed the World on Vimeo](http://vimeo.com/68470326) – “don’t work for anyone you’re afraid to say to.” [2014-04-27]
