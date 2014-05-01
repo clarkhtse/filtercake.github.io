@@ -1,3 +1,4 @@
+- [Web Components](http://addyosmani.github.io/fitc-wccdt/#1) – addy osmani [2014-05-01]
 - [Setup gh-pages branch and master branch as subfolders of a parent project folder](https://gist.github.com/chrisjacob/833223) [2014-04-30]
 - [The Line Length Misconception](http://viget.com/inspire/the-line-length-misconception) [2014-04-30]
 - [Web Components in Action](https://www.youtube.com/watch?v=0g0oOOT86NY) [2014-04-28]
