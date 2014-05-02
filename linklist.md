@@ -1,3 +1,4 @@
+- [Wikipedia redesign](http://jgthms.com/wikipedia-redesign.html) [2014-05-02]
 - [WHO warns Antibiotic resistance now global threat](http://www.bbc.com/news/health-27204988) [2014-05-02]
 - [Web Components](http://addyosmani.github.io/fitc-wccdt/#1) – addy osmani [2014-05-01]
 - [Setup gh-pages branch and master branch as subfolders of a parent project folder](https://gist.github.com/chrisjacob/833223) [2014-04-30]
