@@ -1,3 +1,4 @@
+- [Getting Started – Savage Chickens](http://www.savagechickens.com/gettingstarted) [2014-05-02]
 - [Wikipedia redesign](http://jgthms.com/wikipedia-redesign.html) [2014-05-02]
 - [WHO warns Antibiotic resistance now global threat](http://www.bbc.com/news/health-27204988) [2014-05-02]
 - [Web Components](http://addyosmani.github.io/fitc-wccdt/#1) – addy osmani [2014-05-01]
