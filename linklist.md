@@ -1,3 +1,4 @@
+- [TASTATURAUFKLEBER ENGLISCH USA](http://www.tastaturaufkleber.eu/product_info.php?info=p175_Tastaturaufkleber-ENGLISCH-US--mini.html) [2014-05-04]
 - [Getting Started – Savage Chickens](http://www.savagechickens.com/gettingstarted) [2014-05-02]
 - [Wikipedia redesign](http://jgthms.com/wikipedia-redesign.html) [2014-05-02]
 - [WHO warns Antibiotic resistance now global threat](http://www.bbc.com/news/health-27204988) [2014-05-02]
