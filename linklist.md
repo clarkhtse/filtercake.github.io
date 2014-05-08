@@ -1,3 +1,4 @@
+- [Dealing with Clients](http://www.thegraphicdesignschool.com/blog/professional-practice/professional-design-practice-lesson-4-dealing-with-clients/) [2014-05-08]
 - [2014-05-07]
 - [TASTATURAUFKLEBER ENGLISCH USA](http://www.tastaturaufkleber.eu/product_info.php?info=p175_Tastaturaufkleber-ENGLISCH-US--mini.html) [2014-05-04]
 - [Getting Started – Savage Chickens](http://www.savagechickens.com/gettingstarted) [2014-05-02]
