@@ -1,3 +1,4 @@
+- [Federal court overturns Google vs Oracle decision setting disastrous precedent](http://www.theverge.com/2014/5/9/5699958/federal-court-overturns-google-v-oracle) [2014-05-10]
 - [Dealing with Clients](http://www.thegraphicdesignschool.com/blog/professional-practice/professional-design-practice-lesson-4-dealing-with-clients/) [2014-05-08]
 - [2014-05-07]
 - [TASTATURAUFKLEBER ENGLISCH USA](http://www.tastaturaufkleber.eu/product_info.php?info=p175_Tastaturaufkleber-ENGLISCH-US--mini.html) [2014-05-04]
