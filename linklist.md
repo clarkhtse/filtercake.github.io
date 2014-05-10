@@ -1,3 +1,4 @@
+- [uxhacks](http://uxhacks.tumblr.com/) [2014-05-10]
 - [Federal court overturns Google vs Oracle decision setting disastrous precedent](http://www.theverge.com/2014/5/9/5699958/federal-court-overturns-google-v-oracle) [2014-05-10]
 - [Dealing with Clients](http://www.thegraphicdesignschool.com/blog/professional-practice/professional-design-practice-lesson-4-dealing-with-clients/) [2014-05-08]
 - [2014-05-07]
