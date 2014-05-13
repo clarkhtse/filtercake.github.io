@@ -1,3 +1,7 @@
+- [Six Common Problems With The UX Process, And Six Solutions](http://www.smashingmagazine.com/2014/05/07/6-common-problems-ux-process-6-solutions/) [2014-05-13]
+- [Six Common Problems With The UX Process And Six Solutions](http://www.smashingmagazine.com/2014/05/07/6-common-problems-ux-process-6-solutions/) [2014-05-13]
+- [present shock](http://www.darkrye.com/content/rushkoff-0) [2014-05-12]
+- [7 Things You Didn't Know You Could Do with CSS](http://davidwalsh.name/css-facts)
 - [uxhacks](http://uxhacks.tumblr.com/) [2014-05-10]
 - [Federal court overturns Google vs Oracle decision setting disastrous precedent](http://www.theverge.com/2014/5/9/5699958/federal-court-overturns-google-v-oracle) [2014-05-10]
 - [Dealing with Clients](http://www.thegraphicdesignschool.com/blog/professional-practice/professional-design-practice-lesson-4-dealing-with-clients/) [2014-05-08]
@@ -10,7 +14,7 @@
 - [Setup gh-pages branch and master branch as subfolders of a parent project folder](https://gist.github.com/chrisjacob/833223) [2014-04-30]
 - [The Line Length Misconception](http://viget.com/inspire/the-line-length-misconception) [2014-04-30]
 - [Web Components in Action](https://www.youtube.com/watch?v=0g0oOOT86NY) [2014-04-28]
-- [Mike Monteiro - How Designers Destroyed the World on Vimeo](http://vimeo.com/68470326) – “don’t work for anyone you’re afraid to say to.” [2014-04-27]
+- [Mike Monteiro - How Designers Destroyed the World on Vimeo](http://vimeo.com/68470326) – “don’t work for anyone you’re afraid to say no to.” [2014-04-27]
 - [Y Combinator Designer Directory](https://ycdesign.wufoo.com/forms/y-combinator-designer-directory/) [2014-04-26]
 - [Air Display – turn your iPad into a wireless second monitor](http://www.avatron.com/apps/air-display/) [2014-04-26]
 - [codinghorror on Parenthood](http://blog.codinghorror.com/on-parenthood/) [2014-04-25]
