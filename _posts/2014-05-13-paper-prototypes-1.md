@@ -3,6 +3,7 @@ layout: post
 title: "Solving problems with paper prototypes, Pt 1"
 link: 
 published: true
+poster: paper-prototype.jpg
 ---
 
 I stumbled over this article on Smashing by Chris Day: [Six Common Problems With The UX Process, And Six Solutions!](http://www.smashingmagazine.com/2014/05/07/6-common-problems-ux-process-6-solutions/)
@@ -91,7 +92,7 @@ If everyone has used the prototype, asked questions and sees them answered in ac
 
 In terms of a more classical, waterfally project, it might be worth trying how far you can get without specifying detailed solutions in advance and keep resources to work out problems when they arrive. That of course requires trust on the side of your client.
 
-**To sum up:** I really missed the notion of paper prototypes. They might not have the right look for a client presentation. But they might be the right deliverable for the team – and maybe even for yourself.
+**To sum up:** I just really missed the notion of paper prototypes. They might not have the right look for a client presentation. But they might be the right deliverable for the team – and maybe even for yourself.
 
 
 
