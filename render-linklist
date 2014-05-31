@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/projects/filtercake
+cd ~/src/filtercake.com
 
 touch bookmarks.html
 echo "---" > bookmarks.html
