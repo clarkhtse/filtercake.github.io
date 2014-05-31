@@ -1,3 +1,4 @@
+- [What Does a UX Strategist Do](http://www.uxmatters.com/mt/archives/2012/03/what-does-a-ux-strategist-do.php) [2014-05-31]
 - [browserify-handbook](https://github.com/substack/browserify-handbook) [2014-05-20]
 - [Responsive Image as Service](http://abhishek-tiwari.com/post/responsive-image-as-service-rias) [2014-05-20]
 - [Animating SVG with CSS](http://css-tricks.com/animating-svg-css/) [2014-05-18]
