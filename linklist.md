@@ -1,3 +1,4 @@
+- [2014-06-05]
 - [Why Is It So Hard to Find Good UX People](http://www.uxmatters.com/mt/archives/2014/03/why-is-it-so-hard-to-find-good-ux-people.php) [2014-05-31]
 - [What Does a UX Strategist Do](http://www.uxmatters.com/mt/archives/2012/03/what-does-a-ux-strategist-do.php) [2014-05-31]
 - [browserify-handbook](https://github.com/substack/browserify-handbook) [2014-05-20]
