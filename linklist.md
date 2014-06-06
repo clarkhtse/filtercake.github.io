@@ -1,3 +1,4 @@
+- [How to Secure Erase a Mac Disk from Recovery Mode](http://osxdaily.com/2013/04/22/secure-erase-mac-ssd-drive-recovery-mode/) [2014-06-06]
 - [Vim as a Design Tool](https://hackdesign.org/lessons/49) [2014-06-05]
 - [2014-06-05]
 - [Why Is It So Hard to Find Good UX People](http://www.uxmatters.com/mt/archives/2014/03/why-is-it-so-hard-to-find-good-ux-people.php) [2014-05-31]
