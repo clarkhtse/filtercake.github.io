@@ -1,3 +1,4 @@
+- [dypsilon frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) [2014-06-16]
 - [Stackenblochen](https://www.youtube.com/watch?v=zqAdxN1IWQQ) [2014-06-06]
 - [How to Secure Erase a Mac Disk from Recovery Mode](http://osxdaily.com/2013/04/22/secure-erase-mac-ssd-drive-recovery-mode/) [2014-06-06]
 - [Vim as a Design Tool](https://hackdesign.org/lessons/49) [2014-06-05]
