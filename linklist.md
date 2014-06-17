@@ -1,3 +1,4 @@
+- [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/) [2014-06-17]
 - [A Single Div](http://lynnandtonic.github.io/a-single-div/) – CSS drawings [2014-06-17]
 - [Ideo Releases A New Photoshop For Interaction Design](http://www.fastcodesign.com/3031560/ideo-releases-a-new-photoshop-for-interaction-design) [2014-06-16]
 - [Despicable Me - Wikipedia](http://nl.wikipedia.org/wiki/Despicable_Me) [2014-06-16]
