@@ -1,3 +1,4 @@
+- [2014-06-18]
 - [How to Design Components for Mobile First](https://www.youtube.com/watch?v=xWInGelLGN8) – Luke W [2014-06-18]
 - [Git Commit Hook to Autocompile Sass](http://www.hagenburger.net/BLOG/Using-Git-Commit-Hooks-to-Autocompile-Sass-to-CSS.html) [2014-06-17]
 - [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/) [2014-06-17]
