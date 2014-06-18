@@ -1,3 +1,4 @@
+- [An Incremental Approach to Content Management Using Git and Github](http://www.thoughtworks.com/insights/blog/incremental-approach-content-management-using-git) [2014-06-18]
 - [The three Habits of Great Creative Teams](https://www.youtube.com/watch?v=Tcjv84GSJr0) [2014-06-18]
 - [Pitch Yourself](https://www.linkedin.com/today/post/article/20140617162134-93094-tell-me-a-little-bit-about-yourself?_mSplash=1) [2014-06-18]
 - [Git from the bottom up PDF](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) [2014-06-18]
