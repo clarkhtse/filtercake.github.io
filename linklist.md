@@ -1,3 +1,4 @@
+- [Pitch Yourself](https://www.linkedin.com/today/post/article/20140617162134-93094-tell-me-a-little-bit-about-yourself?_mSplash=1) [2014-06-18]
 - [Git from the bottom up PDF](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) [2014-06-18]
 - [2014-06-18]
 - [How to Design Components for Mobile First](https://www.youtube.com/watch?v=xWInGelLGN8) – Luke W [2014-06-18]
