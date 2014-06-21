@@ -1,3 +1,4 @@
+- [CSSconf eu 2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGi0vwS7HNUvsj8_vcNzQZk) [2014-06-21]
 - [Umlaute auf amerikanischen Computern](http://www.lsa.umich.edu/german/hmr/schreiben/umlaute.html) [2014-06-18]
 - [An Incremental Approach to Content Management Using Git and Github](http://www.thoughtworks.com/insights/blog/incremental-approach-content-management-using-git) [2014-06-18]
 - [The three Habits of Great Creative Teams](https://www.youtube.com/watch?v=Tcjv84GSJr0) [2014-06-18]
