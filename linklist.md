@@ -1,3 +1,4 @@
+- [JSConf US 2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [2014-06-21]
 - [CSSConf US 2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY) [2014-06-21]
 - [CSSconf eu 2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGi0vwS7HNUvsj8_vcNzQZk) [2014-06-21]
 - [Umlaute auf amerikanischen Computern](http://www.lsa.umich.edu/german/hmr/schreiben/umlaute.html) [2014-06-18]
