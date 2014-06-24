@@ -1,3 +1,4 @@
+- [Shadow DOM 201– CSS and Styling](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/) [2014-06-24]
 - [Headstart](http://www.headstart.io/getting-started.html) [2014-06-23]
 - [JSConf US 2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [2014-06-21]
 - [CSSConf US 2013](https://www.youtube.com/playlist?list=PL37ZVnwpeshGqKQRb4-G3Dn40QH7quwBY) [2014-06-21]
