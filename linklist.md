@@ -1,3 +1,4 @@
+- [How do I update each dependency in package.json to the latest version](http://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-version/16074029#16074029) [2014-06-24]
 - [WorkFlowy - Organize your brain](https://workflowy.com/) [2014-06-24]
 - [Shadow DOM 201– CSS and Styling](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/) [2014-06-24]
 - [Headstart](http://www.headstart.io/getting-started.html) [2014-06-23]
