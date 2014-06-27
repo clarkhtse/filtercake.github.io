@@ -1,3 +1,4 @@
+- [Why Coding Style Matters](http://www.smashingmagazine.com/2012/10/25/why-coding-style-matters/) [2014-06-27]
 - [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/) [2014-06-27]
 - [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/) [2014-06-27]
 - [Javascript toolkit](http://de.slideshare.net/ThoughtWorks/javascript-toolkit-34784125) – thoughtworks slidedeck [2014-06-27]
