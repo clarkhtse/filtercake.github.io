@@ -1,6 +1,6 @@
 name: mono space
 markdown: redcarpet
-pygments: true
+highlighter: true
 permalink: :title
 baseurl:
 url: http://filtercake.com
