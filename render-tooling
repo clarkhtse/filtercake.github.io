@@ -1,0 +1,24 @@
+#!/bin/bash
+
+SOURCE="tooling/index.md"
+TARGET="tooling/index.html"
+
+cd ~/src/filtercake.com
+
+
+touch $TARGET
+echo "---" > $TARGET
+echo "layout: default" >> $TARGET
+echo "title: tooling" >> $TARGET
+echo "---" >> $TARGET
+echo " " >> $TARGET
+
+echo "<h1>Tooling</h1>" >> $TARGET
+
+redcarpet $SOURCE >> $TARGET
+
+git add $SOURCE
+git add $TARGET
+# git ci -m "updated tooling"
+# git pull
+# git push origin master
