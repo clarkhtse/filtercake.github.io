@@ -1,3 +1,4 @@
+- [Known](http://withknown.com/) – a publishing platform for everyone [2014-06-29]
 - [Framer](http://framerjs.com/) – Prototyping Coffeescript playground [2014-06-27]
 - [Why Coding Style Matters](http://www.smashingmagazine.com/2012/10/25/why-coding-style-matters/) [2014-06-27]
 - [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/) [2014-06-27]
