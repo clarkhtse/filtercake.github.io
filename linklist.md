@@ -1,3 +1,4 @@
+- [Ten Principles for Great General Purpose Web Components](https://github.com/basic-web-components/components-dev/wiki/Ten-Principles-for-Great-General-Purpose-Web-Components) [2014-06-30]
 - [2014-06-30]
 - [Known](http://withknown.com/) – a publishing platform for everyone [2014-06-29]
 - [Framer](http://framerjs.com/) – Prototyping Coffeescript playground [2014-06-27]
