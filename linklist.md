@@ -1,9 +1,9 @@
+- [CSS Working Group charter](http://www.w3.org/Style/2014/css-charter#participation) [2014-07-02]
+- [Why Women Aren't People (But Corporations Are)](http://jezebel.com/why-women-arent-people-but-corporations-are-1598061808)
 - [Element Queries From the Feet Up](http://www.backalleycoder.com/2014/04/18/element-queries-from-the-feet-up/) [2014-06-30]
-- [2014-06-30]
 - [Referencing parent selectors using the ampersand character](http://thesassway.com/intermediate/referencing-parent-selectors-using-ampersand#wait-theres-more) [2014-06-30]
 - [sample-devtools-theme-extension](https://github.com/paulirish/sample-devtools-theme-extension) [2014-06-30]
 - [Ten Principles for Great General Purpose Web Components](https://github.com/basic-web-components/components-dev/wiki/Ten-Principles-for-Great-General-Purpose-Web-Components) [2014-06-30]
-- [2014-06-30]
 - [Known](http://withknown.com/) – a publishing platform for everyone [2014-06-29]
 - [Framer](http://framerjs.com/) – Prototyping Coffeescript playground [2014-06-27]
 - [Why Coding Style Matters](http://www.smashingmagazine.com/2012/10/25/why-coding-style-matters/) [2014-06-27]
