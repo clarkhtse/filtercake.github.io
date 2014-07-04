@@ -1,3 +1,4 @@
+- [Updates to the Developer Tools in Chrome 35](http://www.html5rocks.com/en/tutorials/developertools/chrome-35/) [2014-07-04]
 - [libuv](https://github.com/joyent/libuv) [2014-07-03]
 - [CSS Working Group charter](http://www.w3.org/Style/2014/css-charter#participation) [2014-07-02]
 - [Why Women Aren't People (But Corporations Are)](http://jezebel.com/why-women-arent-people-but-corporations-are-1598061808)
