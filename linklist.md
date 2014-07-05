@@ -1,3 +1,4 @@
+- [grunt-modernizr](https://github.com/Modernizr/grunt-modernizr) [2014-07-05]
 - [Detectizr](https://github.com/barisaydinoglu/Detectizr) [2014-07-05]
 - [How and why Prezi turned to JavaScript](https://medium.com/prezi-engineering/how-and-why-prezi-turned-to-javascript-56e0ca57d135) [2014-07-04]
 - [Updates to the Developer Tools in Chrome 35](http://www.html5rocks.com/en/tutorials/developertools/chrome-35/) [2014-07-04]
