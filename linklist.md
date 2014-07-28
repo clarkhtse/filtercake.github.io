@@ -1,3 +1,4 @@
+- [CSSConf Australia 2014 Talks](https://www.youtube.com/playlist?list=PLZriQCloF6GDEOUPK7tlaWAtJhPW21ZDF) [2014-07-28]
 - [Indie Tech Summit Videos](https://ind.ie/summit/videos/) [2014-07-28]
 - [Comic dialog boxes](http://codepen.io/fliptheweb/pen/BAFjo) [2014-07-28]
 - [Schnapps for Sketch and Photoshop](http://schnappsformac.com/) [2014-07-22]
