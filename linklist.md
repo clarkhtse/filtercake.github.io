@@ -1,3 +1,4 @@
+- [Comic dialog boxes](http://codepen.io/fliptheweb/pen/BAFjo) [2014-07-28]
 - [Schnapps for Sketch and Photoshop](http://schnappsformac.com/) [2014-07-22]
 - [Node GH GitHub terminal](http://nodegh.io/) [2014-07-17]
 - [Adrian Cockcroft on Microservices and DevOps](http://www.infoq.com/interviews/adrian-cockcroft-microservices-devops) [2014-07-15]
