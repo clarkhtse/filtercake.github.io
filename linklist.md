@@ -1,3 +1,4 @@
+- [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) - aug 2014 [2014-08-04]
 - [kimono - Turn websites into structured APIs from your browser in seconds](https://www.kimonolabs.com/) [2014-08-04]
 - [CSS Triggers](http://csstriggers.com/) [2014-07-28]
 - [CSSConf US 2014](https://www.youtube.com/playlist?list=PL37ZVnwpeshH_e3YNmABDup81_1I7rCnC) [2014-07-28]
