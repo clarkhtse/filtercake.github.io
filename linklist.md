@@ -1,3 +1,4 @@
+- [Handy Sass Mixins](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/) [2014-08-14]
 - [Modernizr Sass mixin](http://hugogiraudel.com/2014/05/12/modernizr-sass-mixin/) [2014-08-14]
 - [HTML5 Camera Access Through Browser in iOS - Stack Overflow](http://stackoverflow.com/questions/6336641/html5-camera-access-through-browser-in-ios/16775971#16775971) [2014-08-04]
 - [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) - aug 2014 [2014-08-04]
