@@ -1,3 +1,4 @@
+- [2014-08-15]
 - [error message - Should we be optimistic or pessimistic with UI updates on AJAX requests?](http://ux.stackexchange.com/questions/17514/should-we-be-optimistic-or-pessimistic-with-ui-updates-on-ajax-requests) [2014-08-15]
 - [The 3 White Lies Behind Instagrams Lightning Speed](http://www.fastcodesign.com/1669788/the-3-white-lies-behind-instagrams-lightning-speed) [2014-08-15]
 - [Handy Sass Mixins](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/) [2014-08-14]
