@@ -1,3 +1,4 @@
+- [The 3 White Lies Behind Instagrams Lightning Speed](http://www.fastcodesign.com/1669788/the-3-white-lies-behind-instagrams-lightning-speed) [2014-08-15]
 - [Handy Sass Mixins](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/) [2014-08-14]
 - [Modernizr Sass mixin](http://hugogiraudel.com/2014/05/12/modernizr-sass-mixin/) [2014-08-14]
 - [HTML5 Camera Access Through Browser in iOS - Stack Overflow](http://stackoverflow.com/questions/6336641/html5-camera-access-through-browser-in-ios/16775971#16775971) [2014-08-04]
