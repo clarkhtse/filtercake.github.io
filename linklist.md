@@ -1,3 +1,4 @@
+- [Beautiful Open](http://beautifulopen.com/) [2014-08-18]
 - [Run Two Notational Velocities At Once](http://superuser.com/questions/349154/run-two-notational-velocities-at-once/349157#comment384544_349157) [2014-08-18]
 - [Beautiful Open](http://beautifulopen.com/) [2014-08-16]
 - [2014-08-15]
