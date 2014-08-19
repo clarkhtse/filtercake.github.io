@@ -1,3 +1,4 @@
+- [Flexplorer](http://bennettfeely.com/flexplorer/) [2014-08-19]
 - [Fontface Ninja](http://fontface.ninja/) [2014-08-19]
 - [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/) [2014-08-19]
 - [Beautiful Open](http://beautifulopen.com/) [2014-08-18]
