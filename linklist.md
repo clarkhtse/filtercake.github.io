@@ -1,3 +1,4 @@
+- [CSS Guidelines](http://cssguidelin.es/) [2014-08-19]
 - [Flexplorer](http://bennettfeely.com/flexplorer/) [2014-08-19]
 - [Fontface Ninja](http://fontface.ninja/) [2014-08-19]
 - [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/) [2014-08-19]
