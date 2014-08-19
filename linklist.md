@@ -1,3 +1,4 @@
+- [Designers guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/home) [2014-08-19]
 - [CSS Guidelines](http://cssguidelin.es/) [2014-08-19]
 - [Flexplorer](http://bennettfeely.com/flexplorer/) [2014-08-19]
 - [Fontface Ninja](http://fontface.ninja/) [2014-08-19]
