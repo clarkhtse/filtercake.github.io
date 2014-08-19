@@ -1,3 +1,4 @@
+- [Fontface Ninja](http://fontface.ninja/) [2014-08-19]
 - [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/) [2014-08-19]
 - [Beautiful Open](http://beautifulopen.com/) [2014-08-18]
 - [Run Two Notational Velocities At Once](http://superuser.com/questions/349154/run-two-notational-velocities-at-once/349157#comment384544_349157) [2014-08-18]
