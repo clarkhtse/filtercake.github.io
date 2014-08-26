@@ -1,3 +1,4 @@
+- [CSS do-](http://davidwalsh.name/css-do) [2014-08-26]
 - [delorean js](https://github.com/f/delorean) [2014-08-25]
 - [Netflix Culture](http://www.slideshare.net/reed2001/culture-1798664) – giant slide deck with a lot of good points [2014-08-25]
 - [Gig Posters on Pinterest](http://www.pinterest.com/explore/gig-poster/) [2014-08-22]
