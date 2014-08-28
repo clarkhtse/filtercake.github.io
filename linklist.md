@@ -1,3 +1,4 @@
+- [The Digital Native](https://speakerdeck.com/anna/the-digital-native) - schools and it [2014-08-28]
 - [Alex Grey Tattoo Designs](http://slodive.com/inspiration/alex-grey-tattoo/) [2014-08-28]
 - [youtube download](https://github.com/rg3/youtube-dl) [2014-08-27]
 - [CSS do-](http://davidwalsh.name/css-do) [2014-08-26]
