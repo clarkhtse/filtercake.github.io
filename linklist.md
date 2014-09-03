@@ -1,3 +1,4 @@
+- [HasDocs Documentation Platform](http://www.hasdocs.com/) [2014-09-03]
 - [Tips for Public Speaking](http://speaking.io/) [2014-08-29]
 - [Pins from esotericonline net on Pinterest](http://www.pinterest.com/source/esotericonline.net/) [2014-08-28]
 - [The Digital Native](https://speakerdeck.com/anna/the-digital-native) - schools and it [2014-08-28]
