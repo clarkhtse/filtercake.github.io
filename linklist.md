@@ -1,3 +1,4 @@
+- [Hidden dangers of team building rituals](http://semantici.st/hidden-dangers-of-team-building-rituals/) [2014-09-03]
 - [jekyll-auth](https://github.com/benbalter/jekyll-auth#jekyll-auth) - jekyll on heroku for gh orga members [2014-09-03]
 - [HasDocs Documentation Platform](http://www.hasdocs.com/) [2014-09-03]
 - [Tips for Public Speaking](http://speaking.io/) [2014-08-29]
