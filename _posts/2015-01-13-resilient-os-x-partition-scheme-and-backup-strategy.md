@@ -32,7 +32,7 @@ Time Machine has saved my ass lots of times over the years, especially when I da
 
 ## Customizing takes time
 
-My system is my second home and I love how customizable this great tool is. Customization takes time though. I love and rely on my wirkflows. If I have to set up a new system, there is a lot of setup to do.
+My system is my second home and I love how customizable this great tool is. Customization takes time though. I love and rely on my workflows. If I have to set up a new system, there is a lot of setup to do.
 
 So if my machine crashes and I don't have a *real* backup, I have not just lost all my work. It will also take a lot of time to get everything up and running again. *If* that is even possible at all. Could you name all the tweaks and settings you have made, all the apps you installed and how they are configured? Like, right now?
 
@@ -73,17 +73,17 @@ I mean, really. We talked about it. It is built in. Just plug in an external har
 
 Get a second hard drive and try out something like [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html). This comes with a bonus track btw:
 
-You can only repartition the internal disk when booting from an external disk. Recovery boot (as awesome as it is) will not do for this use case because it still running from the same physical internal drive. You can of course create an external recovery USB stick or the like. But having your standard system at hand for this seems much better. Hence, clone your system disk.
+You can only repartition the internal disk when booting from an external disk. Recovery boot (as awesome as it is) will not do for this use case because it is still running from the same physical internal drive. You can of course create an external recovery USB stick or the like. But having your standard system at hand for this seems much better. Hence, clone your system disk.
 
 ### 3. Partition
 
 Now that you have two copies of all your data, you can safely repartition your main drive. In theory you can just delete stuff and re-copy it from the one of the two copies. Personally I actually used yet another hard drive for this purpose. Yes, call me paranoid or read the beginning of this post again.
 
-Remember to re-clone the new partition setup once its done. If you go shopping for a clone drive, consider getting one twice the size of your internal drive. Thus you do not have to overwrite the old clone and have states at hand during the process. Just in case.
+Remember to re-clone the new partition setup once its done. If you go shopping for a clone drive, consider getting one twice the size of your internal drive. Thus you do not have to overwrite the old clone and have all states at hand during the process. Just in case.
 
-### Enjoy the peace
+### 4. Enjoy the peace
 
-Yeah, just do that. Sleep much better the night after this is done :)
+Yeah, just do that. Sleep much better the night after this is done.
 
 ## There is more: offsite backup
 
@@ -93,7 +93,7 @@ Luckily: interwebs. [Backblaze](http://backblaze.com/backtowork) as a 'cloud bac
 
 ## And there is even more: the home partition
 
-Back in my Windows days, I had my user folder and my system data on two different physical drives. I had started to do that because of performance reasons, but it came with a nice side effect: whenever I had to reinstall my system (and I remember doing that at least once a year), I would just relink the data drive and ta-daah!
+Back in my Windows days, I had user folder and system data on two different physical drives. I had started to do that because of performance reasons, but it came with a nice side effect: whenever I had to reinstall my system (and I remember doing that at least once a year), I would just relink the data drive and ta-daah!
 
 I don't know why, but having system and user data on the same partition feels wrong to me. [If stuff can be seperated, seperate it](https://en.wikipedia.org/wiki/Separation_of_concerns).
 
@@ -104,7 +104,7 @@ There is this great tutorial called [Moving OS X /Users to a separate partition]
 
 Computers cannot be trusted. Everything will break down the very minute you can use it the least. Knowing that I will be operational again within an hour, whatever happens, let's me sleep much better at night. Knowing that all my data and all the history of stuff I made over the years is safe: priceless.
 
-You might find that this partion-and-recovering thing is too much for you. You might be okay with watching status bars for two days when your system crashes. But for god's sake, to be able to at least do that, puh-lease start having a real backup strategy.
+You might find that this partion-and-recovering thing is too much for you. You might be okay with watching status bars for two days when your system crashes. But for god's sake, to be able to at least do *that*, please start having a real backup strategy.
 
 Did I mention that Time Machine is built in and all you need to do is plugging in an external hard drive?
 
